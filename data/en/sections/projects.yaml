@@ -1,0 +1,116 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: GIS
+  filter: "GIS"
+- name: Code
+  filter: "Code"
+- name: Writing
+  filter: "Writing"
+
+# all projects
+projects:
+- name: Sea Level Rise in Miami
+  role: Author
+  image: /images/sections/projects/story_miami_20240130_sentinel2.jpg
+  timeline: "May 2024"
+  url: https://storymaps.arcgis.com/stories/c37339df260245db84a82a8b5f7d7d01
+  summary: With Florida Community Innovation, I created this Story Map about sea level rise in Miami. We hosted an event in Miami where we shared data visualizations about climate gentrification and held a dialogue about collaborative solutions.
+  tags: ["GIS", "Writing"]
+
+- name: Over the Years, Storytelling with Data
+  role: Artist
+  image: /images/sections/projects/art_over_the_years.gif
+  timeline: "August 2024"
+  url: https://via-zhang.github.io/climate-storytelling
+  summary: Featuring a timelapse of projected flooding from sea level rise up to 10 feet in the Everglades in South Florida, a line graph of sea levels off the coast of Southeast Florida from 1994 to 2023, overlaid with a personal portrait, this artwork explores data visualization as an avenue for climate storytelling. "Over the Years" was on display in Long Island City, NY at the Queens Council on the Arts in partnership with Ofrenda Fest from September to December 2024.
+  tags: ["GIS", "Art"]
+
+- name: Detecting Archeological Shell Mounds with AI
+  role: Undergraduate Researcher
+  image: /images/sections/projects/pres_shell_mounds.png
+  timeline: "January 2024 - May 2024"
+  url: https://github.com/via-zhang/portfolio/blob/main/presentations/aaa_2024_shell_mounds.pdf
+  summary: With the AI for Bio/Cultural Diversity Lab at the Florida Museum of Natural History, I worked on a research project to detect archeological shell mound sites with artificial intelligence. I presented our results at the 2024 American Anthropological Association Annual Meeting.
+  tags: ["Research", "GIS"]
+
+- name: Estimating Rainfall from Radar Data with Machine Learning
+  role: Undergraduate Researcher
+  image: /images/sections/projects/poster_radar_qpe.png
+  timeline: "June 2024 - August 2024"
+  url: https://github.com/via-zhang/portfolio/blob/main/posters/MAI_Lab_2024_Radar_QPE_SR.png
+  summary: With a team of undergraduate students at this Research Experience for Undergraduates (REU) program at the University of Maryland, Baltimore County, we researched methods to apply symbolic regression, a type of machine learning, to estimate rainfall rate from radar data. We presented our poster at the 2024 American Geophysical Union Annual Meeting and our paper at the 2024 IEEE International Conference on Big Data. 
+  tags: ["Research"]
+
+- name: Inactive Voters in Florida
+  role: Undergraduate Researcher
+  image: /images/sections/projects/story_voters.png
+  timeline: "January 2024 - May 2024"
+  url: https://storymaps.arcgis.com/stories/c407fab46da74658a2429f264cd9ec01
+  summary: With the Election Lab at the University of Florida, I created this Story Map about inactive voters based on our analysis of Florida voter files since 2016. We presented our research at the 2024 Election Science, Reform, and Administration Conference.
+  tags: ["Research", "GIS"]
+
+- name: Florida 2023 Lightning-Caused Wildfire Season
+  role: Author
+  image: /images/sections/projects/story_lightning.jpg
+  timeline: "December 2023"
+  url: https://storymaps.arcgis.com/stories/df47c927f1e642b8ae2bc4dcde8d8496
+  summary: With Fire Neural Network, I wrote this ArcGIS Story Map to give an overview of lightning-caused wildfires that occurred in Florida in 2023.
+  tags: ["GIS", "Writing"]
+
+- name: Environmental Hazards Risk Dashboard
+  role: Author
+  image: /images/sections/projects/dashboard_enviro_hazards.png
+  timeline: "December 2023"
+  url: https://www.arcgis.com/apps/dashboards/ec0dd16d4ea9421a87bef3cd2a9b448a
+  summary: This dashboard explores the Expected Annual Loss across the US from various natural hazards, with data from the FEMA National Risk Index by State (zoomed out) and Census Tract (zoomed in).
+  tags: ["GIS"]
+
+- name: Mapping Hurricanes with NEXRAD Radar Data
+  role: Author
+  image: /images/sections/projects/map_nexrad_klix_200508_reflectivity_timelapse.gif
+  timeline: "September 2024"
+  url: https://github.com/via-zhang/portfolio/blob/main/maps/radar/map_nexrad_radar.ipynb
+  summary: This Jupyter Notebook uses Python to load NEXRAD radar reflectivity data, download maps, and create a timelapse representing hurricanes and storms.
+  tags: ["Code"]
+
+- name: Visualizing Local Sea Level Change
+  role: Author
+  image: /images/sections/projects/graph_mean_sea_level_8723214.png
+  timeline: "August 2024"
+  url: https://github.com/via-zhang/climate-storytelling/blob/main/sea-level-change/graph_local_sea_level_change.ipynb
+  summary: This Jupyter Notebook uses Python to visualize local sea level data from tide-monitoring stations in NOAA's Center for Operational Oceanographic Products and Service (CO-OPS) network.
+  tags: ["Code"]
+
+# - name: 
+#   role: 
+#   image: /images/sections/projects/
+#   timeline: 
+#   url: 
+#   summary: 
+#   tags: 
+
+# - name: 
+#   role: 
+#   image: /images/sections/projects/
+#   timeline: 
+#   url: 
+#   summary: 
+#   tags: 
+
+# - name: 
+#   role: 
+#   image: /images/sections/projects/
+#   timeline: 
+#   url: 
+#   summary: 
+#   tags: 

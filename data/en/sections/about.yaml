@@ -1,0 +1,30 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# main designation
+designation: Geography + Data Science Student
+company:
+  name: University of Florida
+  url: https://www.ufl.edu
+
+summary: "Passionate about how data storytelling, geographic information systems (GIS), and design can help us address climate change in an equitable and community-centered way, I study data science and geography with a certificate in geographic artificial intelligence at the University of Florida. Whether it\'s designing maps, visualizing data, or building apps, I love to embrace creativity in everything I do. I am passionate about geospatial data science and technology for social good because of the endless opportunities to build connections and share stories."
+
+# social links (fontawesome icons)
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/via-zhang"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/via-zhang"
+
+# custom buttons
+resourceLinks:
+- title: "My Resume"
+  url: "files/Olivia_Zhang_Resume.pdf"

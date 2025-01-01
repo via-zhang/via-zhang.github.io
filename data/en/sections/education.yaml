@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
+degrees:
+- name: BS in Geography and BS in Data Science
+  icon: fa-graduation-cap
+  timeframe: "Expected: 2027"
+  institution:
+    name: University of Florida
+    url: "https://www.ufl.edu/"
+  grade:
+    scale: GPA
+    achieved: 4
+    outOf: 4
+  takenCourses:
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Radar & Satellite Meteorology
+    - name: Geophysical Exploration of the Cryosphere
+    - name: Introduction to Quantitative Analysis for Geographers
+    - name: Programming with Data in R
+  extracurricularActivities:
+  - Ambassador for Geography Department, sharing resources and opportunities with students.
+
+- name: Associate of Arts
+  icon: fa-book
+  timeframe: June 2023
+  institution:
+    name: College Academy at Broward College
+    url: "https://www.browardschools.com/collegeacademy"
+  customSections:
+    - name: About
+      content: Received an Associate of Arts degree from Broward College at the same time as my high school diploma through an accelerated dual-enrollment program.

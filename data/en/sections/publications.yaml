@@ -1,0 +1,108 @@
+# section information
+section:
+  name: Experiences
+  id: publications
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Research
+  filter: "research"
+- name: GIS
+  filter: "gis"
+- name: Coding
+  filter: "coding"
+
+# experiences
+publications:
+- title: GIS Analyst
+  publishedIn:
+    name: Fire Neural Network
+    date: May 2022 - Mar 2023 (Intern), Mar 2023 - Present (Analyst)
+    url: https://fireneuralnetwork.com
+  paper:
+    summary: "<i>Fire Neural Network gives firefighters timely alerts about lightning strikes likely to cause wildfires - through a combination of AI, drones, and GIS mapping.</i></p>• Built interactive dashboards with updated lightning and fire data in ArcGIS Online, used by stakeholders to identify dangerous lightning.<br>• Analyzed 300+ satellite images to locate burned areas from lightning-caused wildfires, helping train machine learning model.<br>• Organized files, researched datasets, documented progress, and helped write final reports."
+    url: https://fireneuralnetwork.com
+  categories: ["gis", "coding"]
+  tags: ["ArcGIS Suite", "Writing", "Video Editing", "Coding"]
+
+- title: Undergraduate Research Assistant
+  publishedIn:
+    name: AI for Bio/Cultural Diversity Lab, Florida Museum of Natural History
+    date: Jan 2024 - Present
+    url: https://www.floridamuseum.ufl.edu
+  paper:
+    summary: "<i>The AI for Bio/Cultural Diversity Lab is a research lab at the museum that applies AI to the study of biodiversity and cultural history.</i></p>• Fine-tuned open-source object detection models in Python to identify archaeological sites in aerial photographs and LiDAR-derived digital elevation models.<br>• Tested k-means clustering and random forest classification in R to classify islands in Sentinel-2 satellite imagery.<br>• Prepared training images for machine learning using ArcGIS Pro, Python, and Roboflow."
+    url: https://www.floridamuseum.ufl.edu
+  categories: ["gis", "research", "coding"]
+  tags: ["Research", "ArcGIS Suite"]
+
+- title: GIS & Programs Intern
+  publishedIn:
+    name: trubel&co
+    date: Dec 2023 - Dec 2024 (Volunteer), Dec 2024 - Present (Intern)
+    url: https://www.trubel.co
+  paper:
+    summary: "<i>trubel&co is a nonprofit that hosts educational programs for youth about using data, design, and technology for social justice.</i></p>• Helped host EcoGIS: Mapping Environmentally Just Futures, a 3-part virtual workshop series for students and young professionals about GIS for environmental justice in Florida.<br>• Helped create workshops and activities to teach high school students how to leverage ArcGIS for social justice.<br>• Created workshop about geospatial analysis in Python with environmental justice data."
+    url: https://www.trubel.co
+  categories: ["gis"]
+  tags: ["ArcGIS Suite", "Canva"]
+
+- title: Intern
+  publishedIn:
+    name: Institute of Food and Agricultural Sciences, University of Florida
+    date: Jan 2024 - May 2024
+    url: https://ifas.ufl.edu
+  paper:
+    summary: "<i>A partnership dedicated to creating accessible knowledge in agricultural and natural resources. </i></p>• Cleaned survey data about well history in Excel and built ArcGIS Dashboard of well water quality.<br>• Wrote collaborative literature review about climate-smart agriculture to inform educational programs."
+    url: https://ifas.ufl.edu
+  categories: ["gis"]
+  tags: ["ArcGIS Dashboard", "Excel"]
+
+- title: Intern
+  publishedIn:
+    name: Conscious Kitchen, Turning Green
+    date: Sep 2023 - May 2024
+    url: https://www.consciouskitchen.org
+  paper:
+    summary: "<i>Conscious Kitchen is a nonprofit that partners with schools in California to increase access to organic, fresh meals.</i></p>• Built ArcGIS Dashboard of organic farms in California to connect schools with local farmers.<br>• Designed posts about organic produce in Canva and calculated costs of organic ingredients to improve documentation."
+    url: https://www.consciouskitchen.org
+  categories: ["gis"]
+  tags: ["ArcGIS Suite"]
+
+# - title: 
+#   publishedIn:
+#     name: 
+#     date: 
+#     url: 
+#   paper:
+#     summary: "<i>INFO</i></p>• ONE.<br>• TWO.<br>• THREE."
+#     url: 
+#   categories: [""]
+#   tags: [""]
+
+# - title: 
+#   publishedIn:
+#     name: 
+#     date: 
+#     url: 
+#   paper:
+#     summary: "<i>INFO</i></p>• ONE.<br>• TWO.<br>• THREE."
+#     url: 
+#   categories: [""]
+#   tags: [""]
+
+# - title: 
+#   publishedIn:
+#     name: 
+#     date: 
+#     url: 
+#   paper:
+#     summary: "<i>INFO</i></p>• ONE.<br>• TWO.<br>• THREE."
+#     url: 
+#   categories: [""]
+#   tags: [""]

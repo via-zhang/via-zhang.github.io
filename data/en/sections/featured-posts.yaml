@@ -1,0 +1,10 @@
+section:
+  name: Featured Posts
+  id: featured-posts
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+# posts to feature
+posts:
+  - miami-vibrance
