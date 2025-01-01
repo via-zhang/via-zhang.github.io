@@ -1,6 +1,6 @@
 name: Deploy to Github Pages
 
-# run when a commit is pushed to "source" branch
+# run when a commit is pushed to main branch
 on:
   push:
     branches:
@@ -35,7 +35,7 @@ jobs:
     - name: Build
       run: hugo --minify
 
-    # push the generated content into the `gh-pages` branch.
+    # push the generated content into the gh-pages branch
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4
       with:
