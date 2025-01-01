@@ -27,13 +27,13 @@ projects:
   summary: With Florida Community Innovation, I created this Story Map about sea level rise in Miami. We hosted an event in Miami where we shared data visualizations about climate gentrification and held a dialogue about collaborative solutions.
   tags: ["GIS", "Writing"]
 
-- name: Over the Years, Storytelling with Data
-  role: Artist
-  image: /images/sections/projects/art_over_the_years.gif
-  timeline: "August 2024"
-  url: https://via-zhang.github.io/climate-storytelling
-  summary: Featuring a timelapse of projected flooding from sea level rise up to 10 feet in the Everglades in South Florida, a line graph of sea levels off the coast of Southeast Florida from 1994 to 2023, overlaid with a personal portrait, this artwork explores data visualization as an avenue for climate storytelling. "Over the Years" was on display in Long Island City, NY at the Queens Council on the Arts in partnership with Ofrenda Fest from September to December 2024.
-  tags: ["GIS", "Art"]
+# - name: Over the Years, Storytelling with Data
+#   role: Artist
+#   image: /images/sections/projects/art_over_the_years.gif
+#   timeline: "August 2024"
+#   url: https://via-zhang.github.io/climate-storytelling
+#   summary: Featuring a timelapse of projected flooding from sea level rise up to 10 feet in the Everglades in South Florida, a line graph of sea levels off the coast of Southeast Florida from 1994 to 2023, overlaid with a personal portrait, this artwork explores data visualization as an avenue for climate storytelling. "Over the Years" was on display in Long Island City, NY at the Queens Council on the Arts in partnership with Ofrenda Fest from September to December 2024.
+#   tags: ["GIS", "Art"]
 
 - name: Detecting Archeological Shell Mounds with AI
   role: Undergraduate Researcher
@@ -75,13 +75,13 @@ projects:
   summary: This dashboard explores the Expected Annual Loss across the US from various natural hazards, with data from the FEMA National Risk Index by State (zoomed out) and Census Tract (zoomed in).
   tags: ["GIS"]
 
-- name: Mapping Hurricanes with NEXRAD Radar Data
-  role: Author
-  image: /images/sections/projects/map_nexrad_klix_200508_reflectivity_timelapse.gif
-  timeline: "September 2024"
-  url: https://github.com/via-zhang/portfolio/blob/main/maps/radar/map_nexrad_radar.ipynb
-  summary: This Jupyter Notebook uses Python to load NEXRAD radar reflectivity data, download maps, and create a timelapse representing hurricanes and storms.
-  tags: ["Code"]
+# - name: Mapping Hurricanes with NEXRAD Radar Data
+#   role: Author
+#   image: /images/sections/projects/map_nexrad_klix_200508_reflectivity_timelapse.gif
+#   timeline: "September 2024"
+#   url: https://github.com/via-zhang/portfolio/blob/main/maps/radar/map_nexrad_radar.ipynb
+#   summary: This Jupyter Notebook uses Python to load NEXRAD radar reflectivity data, download maps, and create a timelapse representing hurricanes and storms.
+#   tags: ["Code"]
 
 - name: Visualizing Local Sea Level Change
   role: Author
