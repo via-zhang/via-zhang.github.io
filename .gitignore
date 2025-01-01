@@ -2,4 +2,4 @@ node_modules/*
 public/*
 resources/*
 data/en/sections/featured-posts.yaml
-content/*
+content/posts/*
