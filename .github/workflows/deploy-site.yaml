@@ -11,26 +11,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # checkout to the commit that has been pushed
-    - uses: actions/checkout@v4
-
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v3
+    - uses: actions/checkout@v4.1.1
       with:
-        hugo-version: 0.140.1
-        extended: true
-
-    - name: Update Hugo Modules
-      run: hugo mod tidy
+        ref: main
 
     - name: Setup Node
       uses: actions/setup-node@v4
       with:
-        node-version: 20
+        node-version: 18
 
-    - name: Install node modules
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3.0.0
+      with:
+        hugo-version: 'latest'
+        extended: true
+
+    - name: Update Hugo Modules
       run: |
+        hugo mod get -u
         hugo mod npm pack
-        npm install        
+        hugo mod tidy
+
+    - name: Install Node Modules
+      run: npm install
 
     - name: Build
       run: hugo --minify
