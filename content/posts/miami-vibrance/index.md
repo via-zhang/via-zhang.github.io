@@ -1,14 +1,12 @@
 ---
 title: "Vibrance of Miami, a Data Storytelling Project"
-date: 2024-11-01
-hero: cover.jpg
+date: 2024-11-01T00:00:00+06:00
 description: Artwork showing the diversity and resilience of Miami from space, using publicly-available data.
 menu:
   sidebar:
     name: Vibrance of Miami
     identifier: miami-vibrance
-    parent: artworks
-    weight: 10
+    weight: 30
 tags: ["Art", "Data Analysis"]
 mermaid: true
 ---
