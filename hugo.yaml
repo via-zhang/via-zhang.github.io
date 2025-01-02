@@ -163,3 +163,5 @@ params:
     # Currently, it supports "mailchimp"
     newsletter:
       enable: false
+
+timeout: 120s
