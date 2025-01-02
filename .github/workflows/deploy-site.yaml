@@ -1,6 +1,6 @@
 name: Deploy to Github Pages
 
-# run when a commit is pushed to main branch
+# run when a commit is pushed to "source" branch
 on:
   push:
     branches:
@@ -11,34 +11,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # checkout to the commit that has been pushed
-    - uses: actions/checkout@v4.1.1
-      with:
-        ref: main
-
-    - name: Setup Node
-      uses: actions/setup-node@v4
-      with:
-        node-version: 18
+    - uses: actions/checkout@v4
 
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v3.0.0
+      uses: peaceiris/actions-hugo@v3
       with:
         hugo-version: 'latest'
         extended: true
 
     - name: Update Hugo Modules
-      run: |
-        hugo mod get -u
-        hugo mod npm pack
-        hugo mod tidy
+      run: hugo mod tidy
 
-    - name: Install Node Modules
-      run: npm install
+    - name: Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    - name: Install node modules
+      run: |
+        hugo mod npm pack
+        npm install        
 
     - name: Build
       run: hugo --minify
 
-    # push the generated content into the gh-pages branch
+    # push the generated content into the `gh-pages` branch.
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4
       with:
