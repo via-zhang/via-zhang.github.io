@@ -8,7 +8,7 @@ section:
   showOnNavbar: true
 
 degrees:
-- name: BS in Geography and BS in Data Science
+- name: Bachelor of Science with double major in Geography and Data Science
   icon: fa-graduation-cap
   timeframe: "Expected: 2027"
   institution:
@@ -27,6 +27,7 @@ degrees:
     - name: Introduction to Quantitative Analysis for Geographers
     - name: Programming with Data in R
   extracurricularActivities:
+  - Pursuing certificate in Geographic AI and Big Data.
   - Ambassador for Geography Department, sharing resources and opportunities with students.
 
 - name: Associate of Arts
