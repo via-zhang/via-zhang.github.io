@@ -3,7 +3,7 @@ section:
   id: featured-posts
   enable: true
   weight: 3
-  showOnNavbar: true
+  showOnNavbar: false
 
 # posts to feature
 posts:

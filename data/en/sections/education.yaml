@@ -22,10 +22,11 @@ degrees:
     showGrades: false
     collapseAfter: 3
     courses:
-    - name: Radar & Satellite Meteorology
-    - name: Geophysical Exploration of the Cryosphere
+    - name: Radar & Satellite Meteorology (graduate course using MATLAB to process radar and satellite data)
+    - name: Geophysical Exploration of the Cryosphere (research course using Python to estimate and map the seafloor beneath ice shelves)
     - name: Introduction to Quantitative Analysis for Geographers
     - name: Programming with Data in R
+    - name: Computational Linear Algebra
   extracurricularActivities:
   - Pursuing certificate in Geographic AI and Big Data.
   - Ambassador for Geography Department, sharing resources and opportunities with students.

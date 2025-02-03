@@ -40,7 +40,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background_ocean.jpg
+  background: /images/site/ocean_background.jpg
 
   logo:
     main: /images/site/Logo_Green.png

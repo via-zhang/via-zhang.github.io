@@ -3,8 +3,8 @@ section:
   name: Achievements
   id: achievements
   enable: true
-  weight: 7
-  showOnNavbar: true
+  weight: 8
+  showOnNavbar: false
 
 # Your achievements achievements
 achievements:

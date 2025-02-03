@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Certifications
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: false
+
+# Your accomplishments
+accomplishments:
+- name: Fundamentals of Deep Learning
+  timeline: "December 2024"
+  organization:
+    name: NVIDIA
+    url: https://www.nvidia.com
+  courseOverview: "Improved skills in deep learning in Python, including data augmentation, fine-tuning, and training neural networks."
+  certificateURL: "https://learn.nvidia.com/certificates?id=eQ5njD7lRwqqXlBV2T9pBA"
+
+- name: Ignite Accelerator Program
+  timeline: "January 2024 - September 2024"
+  organization:
+    name: AI4ALL
+    url: https://ai-4-all.org/ai4all-ignite
+  courseOverview: "Completed course about data processing, machine learning, and deep learning in Python; collaborated with another student to apply time series models in Python to forecast global temperature changes, which we presented at AI4ALL's symposium."
+  certificateURL: https://www.linkedin.com/in/via-zhang/details/education/1728093758248/single-media-viewer/?profileId=ACoAADuQkvIB1xDZDFMQi3x7s-IPgX39eEYG6BU
+
+- name: GIS for Climate Action
+  timeline: "November 2023 - December 2023"
+  organization:
+    name: Esri
+    url: https://www.esri.com
+  courseOverview: "Completed 6-week training about how to apply ArcGIS to understand climate impacts and tell stories from data."
+  certificateURL: https://www.linkedin.com/in/via-zhang/details/certifications/1635554208482/single-media-viewer/?profileId=ACoAADuQkvIB1xDZDFMQi3x7s-IPgX39eEYG6BU
+
+- name: "Spatial Data Science: The New Frontier in Analytics"
+  timeline: "September 2023 - October 2023"
+  organization:
+    name: Esri
+    url: https://www.esri.com
+  courseOverview: "Completed 6-week trianing about data engineering to prepare spatial data, processing data (suitability analysis, predictive modeling, and object detection), and communicating results in engaging ways using ArcGIS tools."
+  certificateURL: https://www.linkedin.com/in/via-zhang/details/certifications/1635545316117/single-media-viewer/?profileId=ACoAADuQkvIB1xDZDFMQi3x7s-IPgX39eEYG6BU
+
+# - name: 
+#   timeline: ""
+#   organization:
+#     name: 
+#     url: 
+#   courseOverview: ""
+#   certificateURL: 
+
+# - name: 
+#   timeline: ""
+#   organization:
+#     name: 
+#     url: 
+#   courseOverview: ""
+#   certificateURL: 
