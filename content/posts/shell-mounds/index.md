@@ -6,7 +6,7 @@ hero: figure8.png
 menu:
   sidebar:
     name: Detecting Shell Mounds
-    identifier: 
+    identifier: shell-mounds
     weight: 20
 tags: ["Research", "Data Analysis"]
 mermaid: true

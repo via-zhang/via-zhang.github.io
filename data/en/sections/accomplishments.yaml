@@ -13,7 +13,7 @@ accomplishments:
   organization:
     name: NVIDIA
     url: https://www.nvidia.com
-  courseOverview: "Improved skills in deep learning in Python, including data augmentation, fine-tuning, and training neural networks."
+  courseOverview: "Improved skills in deep learning in Python, including data augmentation, transfer learning, and training neural networks using PyTorch."
   certificateURL: "https://learn.nvidia.com/certificates?id=eQ5njD7lRwqqXlBV2T9pBA"
 
 - name: Ignite Accelerator Program
@@ -37,7 +37,7 @@ accomplishments:
   organization:
     name: Esri
     url: https://www.esri.com
-  courseOverview: "Completed 6-week trianing about data engineering to prepare spatial data, processing data (suitability analysis, predictive modeling, and object detection), and communicating results in engaging ways using ArcGIS tools."
+  courseOverview: "Completed 6-week trianing about preparing spatial data through data engineering methods, processing data (suitability analysis, predictive modeling, and object detection), and communicating results in engaging ways using ArcGIS tools."
   certificateURL: https://www.linkedin.com/in/via-zhang/details/certifications/1635545316117/single-media-viewer/?profileId=ACoAADuQkvIB1xDZDFMQi3x7s-IPgX39eEYG6BU
 
 # - name: 
