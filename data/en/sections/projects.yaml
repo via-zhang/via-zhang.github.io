@@ -35,12 +35,12 @@ projects:
   summary: Featuring a timelapse of projected flooding from sea level rise up to 10 feet in South Florida, a graph of sea levels (1994-2023) off the coast of Southeast Florida, and a personal portrait, this artwork explores data visualization as an avenue for climate storytelling. "Over the Years" was on display in Long Island City, New York at the Queens Council on the Arts in partnership with Ofrenda Fest from September to December 2024.
   tags: ["GIS", "Art"]
 
-- name: Detecting Archeological Shell Mounds with AI
+- name: Detecting Archaeological Shell Mounds with AI
   role: QGIS, ArcGIS Pro, Roboflow, Python
   image: /images/sections/projects/pres_shell_mounds.png
   timeline: "January 2024 - November 2024"
   url: https://github.com/via-zhang/portfolio/blob/main/presentations/aaa_2024_shell_mounds.pdf
-  summary: With the AI for Bio/Cultural Diversity Lab at the Florida Museum of Natural History, I worked on a research project to detect archeological shell mound sites using open-source object detection models. I presented our results at the 2024 American Anthropological Association Annual Meeting.
+  summary: With the AI for Bio/Cultural Diversity Lab at the Florida Museum of Natural History, I worked on a research project to detect archaeological shell mound sites using open-source object detection models. I presented our results at the 2024 American Anthropological Association Annual Meeting.
   tags: ["Research", "GIS", "Code"]
 
 - name: Sea Level Rise in Miami
