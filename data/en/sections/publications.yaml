@@ -28,7 +28,7 @@ publications:
     summary: "<i>Fire Neural Network gives firefighters timely alerts about lightning strikes likely to cause wildfires - through a combination of AI, drones, and GIS mapping.</i></p>• Created interactive ArcGIS dashboards displaying real-time lightning and wildfire data used by firefighters, along with instructional videos and user guides explaining how to use the dashboards.<br>• Analyzed 300+ satellite images to locate burned areas from lightning-caused wildfires, helping train machine learning model.<br>• Organized files, researched datasets, documented progress, and helped write final reports."
     url: https://fireneuralnetwork.com
   categories: ["gis", "coding"]
-  tags: ["ArcGIS Suite", "Writing", "Video Editing", "Coding"]
+  tags: ["ArcGIS Suite", "Writing", "Video Editing", "Python"]
 
 - title: Undergraduate Research Assistant
   publishedIn:
@@ -37,7 +37,7 @@ publications:
     url: https://www.floridamuseum.ufl.edu
   paper:
     summary: "<i>The AI for Bio/Cultural Diversity Lab is a research lab at the museum that applies AI to the study of biodiversity and cultural history.</i></p>• Fine-tuned open-source object detection models in Python to identify archaeological sites in aerial photographs and LiDAR-derived digital elevation models.<br>• Tested k-means clustering and random forest classification in R to classify islands in Sentinel-2 satellite imagery.<br>• Prepared training images for machine learning using ArcGIS Pro, Python, and Roboflow."
-    url: https://www.floridamuseum.ufl.edu
+    url: https://nick-gauthier.github.io
   categories: ["gis", "research", "coding"]
   tags: ["Research", "ArcGIS Suite"]
 
@@ -48,9 +48,20 @@ publications:
     url: https://www.trubel.co
   paper:
     summary: "<i>trubel&co is a nonprofit that hosts educational programs for youth about using data, design, and technology for social justice.</i></p>• Conducting outreach with partner organizations for <i>Mapping Justice</i>, a course teaching GIS for climate justice.<br>• Helped host <i>EcoGIS: Mapping Environmentally Just Futures</i>, a 3-part virtual workshop series for students and young professionals about GIS for environmental justice in Florida.<br>• Developed a workshop to teach high school students how to analyze and map climate data with Python."
-    url: https://www.trubel.co
+    url: https://www.trubel.co/m-j
   categories: ["gis"]
   tags: ["ArcGIS Suite", "Canva"]
+
+- title: Early-Career Fellow
+  publishedIn:
+    name: Center for Diverse Leadership in Science (CDLS), University of California, Los Angeles
+    date: December 2024 - Present
+    url: https://www.ioes.ucla.edu/cdls
+  paper:
+    summary: "<i>CDLS grows leaders who solve environmental problems and create pathways to sustainability.</i></p>• Planning curriculum for <i>GIS for Community Health</i>, a program teaching community health promoters, recent graduates, and high school students how to map issues impacting their communities using QGIS."
+    url: https://www.ioes.ucla.edu/person/olivia-zhang
+  categories: ["gis"]
+  tags: ["QGIS"]
 
 - title: Researcher
   publishedIn:

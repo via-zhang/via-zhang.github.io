@@ -1,5 +1,5 @@
 section:
-  name: Featured Posts
+  name: Featured Blog Posts
   id: featured-posts
   enable: true
   weight: 3
@@ -7,6 +7,6 @@ section:
 
 # posts to feature
 posts:
+  - s3-summit
   - miami-vibrance
   - shell-mounds
-  - bcls-fellow
