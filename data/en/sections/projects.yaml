@@ -29,7 +29,7 @@ projects:
 
 - name: Over the Years, Storytelling with Data
   role: ArcGIS Pro, Python (ArcPy)
-  image: /images/sections/projects/art_over_the_years.gif
+  image: /images/sections/projects/art_over_the_years.png
   timeline: "August 2024"
   url: https://via-zhang.github.io/climate-storytelling
   summary: Featuring a timelapse of projected flooding from sea level rise up to 10 feet in South Florida, a graph of sea levels (1994-2023) off the coast of Southeast Florida, and a personal portrait, this artwork explores data visualization as an avenue for climate storytelling. "Over the Years" was on display in Long Island City, New York at the Queens Council on the Arts in partnership with Ofrenda Fest from September to December 2024.

@@ -14,10 +14,6 @@ degrees:
   institution:
     name: University of Florida
     url: "https://www.ufl.edu/"
-  grade:
-    scale: GPA
-    achieved: 4
-    outOf: 4
   takenCourses:
     showGrades: false
     collapseAfter: 3
@@ -33,7 +29,7 @@ degrees:
 
 - name: Associate of Arts
   icon: fa-book
-  timeframe: June 2023
+  timeframe: 2023
   institution:
     name: College Academy at Broward College
     url: "https://www.browardschools.com/collegeacademy"
