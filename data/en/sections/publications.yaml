@@ -25,7 +25,7 @@ publications:
     date: May 2022 - March 2023 (Intern), March 2023 - Present (Analyst)
     url: https://fireneuralnetwork.com
   paper:
-    summary: "<i>Fire Neural Network gives firefighters timely alerts about lightning strikes likely to cause wildfires - through a combination of AI, drones, and GIS mapping.</i></p>• Created interactive ArcGIS dashboards displaying real-time lightning and wildfire data used by firefighters, along with instructional videos and user guides explaining how to use the dashboards.<br>• Analyzed 300+ satellite images to locate burned areas from lightning-caused wildfires, helping train machine learning model.<br>• Organized files, researched datasets, documented progress, and helped write final reports."
+    summary: "<i>Fire Neural Network gives firefighters timely alerts about lightning strikes likely to cause wildfires - through a combination of AI, drones, and GIS mapping.</i><br>• Created interactive ArcGIS dashboards displaying real-time lightning and wildfire data used by firefighters, along with instructional videos and user guides explaining how to use the dashboards.<br>• Analyzed 300+ satellite images to locate burned areas from lightning-caused wildfires, helping train machine learning model.<br>• Organized files, researched datasets, documented progress, and helped write final reports."
     url: https://fireneuralnetwork.com
   categories: ["gis", "coding"]
   tags: ["ArcGIS Suite", "Writing", "Video Editing", "Python"]
@@ -36,7 +36,7 @@ publications:
     date: January 2024 - Present
     url: https://www.floridamuseum.ufl.edu
   paper:
-    summary: "<i>The AI for Bio/Cultural Diversity Lab is a research lab at the museum that applies AI to the study of biodiversity and cultural history.</i></p>• Fine-tuned open-source object detection models in Python to identify archaeological sites in aerial photographs and LiDAR-derived digital elevation models.<br>• Tested k-means clustering and random forest classification in R to classify islands in Sentinel-2 satellite imagery.<br>• Prepared training images for machine learning using ArcGIS Pro, Python, and Roboflow."
+    summary: "<i>The AI for Bio/Cultural Diversity Lab is a research lab at the museum that applies AI to the study of biodiversity and cultural history.</i><br>• Fine-tuned open-source object detection models in Python to identify archaeological sites in aerial photographs and LiDAR-derived digital elevation models.<br>• Tested k-means clustering and random forest classification in R to classify islands in Sentinel-2 satellite imagery.<br>• Prepared training images for machine learning using ArcGIS Pro, Python, and Roboflow."
     url: https://nick-gauthier.github.io
   categories: ["gis", "research", "coding"]
   tags: ["Research", "ArcGIS Suite"]
@@ -47,7 +47,7 @@ publications:
     date: December 2023 - December 2024 (Volunteer), December 2024 - Present (Intern)
     url: https://www.trubel.co
   paper:
-    summary: "<i>trubel&co is a nonprofit that hosts educational programs for youth about using data, design, and technology for social justice.</i></p>• Conducting outreach with partner organizations for <i>Mapping Justice</i>, a course teaching GIS for climate justice.<br>• Helped host <i>EcoGIS: Mapping Environmentally Just Futures</i>, a 3-part virtual workshop series for students and young professionals about GIS for environmental justice in Florida.<br>• Developed a workshop to teach high school students how to analyze and map climate data with Python."
+    summary: "<i>trubel&co is a nonprofit that hosts educational programs for youth about using data, design, and technology for social justice.</i><br>• Conducting outreach with partner organizations for <i>Mapping Justice</i>, a course teaching GIS for climate justice.<br>• Helped host <i>EcoGIS: Mapping Environmentally Just Futures</i>, a 3-part virtual workshop series for students and young professionals about GIS for environmental justice in Florida.<br>• Developed a workshop to teach high school students how to analyze and map climate data with Python."
     url: https://www.trubel.co/m-j
   categories: ["gis"]
   tags: ["ArcGIS Suite", "Canva"]
@@ -58,7 +58,7 @@ publications:
     date: December 2024 - Present
     url: https://www.ioes.ucla.edu/cdls
   paper:
-    summary: "<i>CDLS grows leaders who solve environmental problems and create pathways to sustainability.</i></p>• Planning curriculum for <i>GIS for Community Health</i>, a program teaching community health promoters, recent graduates, and high school students how to map issues impacting their communities using QGIS."
+    summary: "<i>CDLS grows leaders who solve environmental problems and create pathways to sustainability.</i><br>• Planning curriculum for <i>GIS for Community Health</i>, a program teaching community health promoters, recent graduates, and high school students how to map issues impacting their communities using QGIS."
     url: https://www.ioes.ucla.edu/person/olivia-zhang
   categories: ["gis"]
   tags: ["QGIS"]
@@ -69,7 +69,7 @@ publications:
     date: June 2024 - August 2024
     url: https://bigdatareu.umbc.edu
   paper:
-    summary: "<i>NSF-funded Research Experience for Undergraduates program, Online Interdisciplinary Big Data Analytics in Science and Engineering</i></p>• Developed workflow incorporating regression and clustering in Python to improve estimates of rainfall rate from weather radar data, improving accuracy and generating interpretable equations.<br>• Organized code in UMBC's high-performance computing cluster.<br>• Collaborated with multidisciplinary team to write research paper, published in 2024 IEEE International Conference on Big Data."
+    summary: "<i>NSF-funded Research Experience for Undergraduates program, Online Interdisciplinary Big Data Analytics in Science and Engineering</i><br>• Developed workflow incorporating regression and clustering in Python to improve estimates of rainfall rate from weather radar data, improving accuracy and generating interpretable equations.<br>• Organized code in UMBC's high-performance computing cluster.<br>• Collaborated with multidisciplinary team to write research paper, published in 2024 IEEE International Conference on Big Data."
     url: https://doi.org/10.1109/BigData62323.2024.10825069
   categories: ["research", "coding"]
   tags: ["Python"]
@@ -80,7 +80,7 @@ publications:
     date: January 2024 - May 2024
     url: https://ifas.ufl.edu
   paper:
-    summary: "<i>UF/IFAS Extension is a partnership dedicated to creating accessible knowledge in agricultural and natural resources. </i></p>• Cleaned survey data about well history in Excel and built ArcGIS Dashboard of well water quality.<br>• Wrote collaborative literature review about climate-smart agriculture to inform educational programs."
+    summary: "<i>UF/IFAS Extension is a partnership dedicated to creating accessible knowledge in agricultural and natural resources.</i><br>• Cleaned survey data about well history in Excel and built ArcGIS Dashboard of well water quality.<br>• Wrote collaborative literature review about climate-smart agriculture to inform educational programs."
     url: https://ifas.ufl.edu
   categories: ["gis"]
   tags: ["ArcGIS Dashboard", "Excel"]
@@ -91,7 +91,7 @@ publications:
     date: September 2023 - May 2024
     url: https://www.consciouskitchen.org
   paper:
-    summary: "<i>Conscious Kitchen is a nonprofit that partners with schools in California to increase access to organic, fresh meals.</i></p>• Built ArcGIS Dashboard of organic farms in California to connect schools with local farmers.<br>• Designed posts about organic produce in Canva and calculated costs of organic ingredients to improve documentation."
+    summary: "<i>Conscious Kitchen is a nonprofit that partners with schools in California to increase access to organic, fresh meals.</i><br>• Built ArcGIS Dashboard of organic farms in California to connect schools with local farmers.<br>• Designed posts about organic produce in Canva and calculated costs of organic ingredients to improve documentation."
     url: https://www.consciouskitchen.org
   categories: ["gis"]
   tags: ["ArcGIS Suite"]
