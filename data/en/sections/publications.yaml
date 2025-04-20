@@ -39,7 +39,7 @@ publications:
     summary: "<i>The AI for Bio/Cultural Diversity Lab is a research lab at the museum that applies AI to the study of biodiversity and cultural history.</i><br>• Fine-tuned open-source object detection models in Python to identify archaeological sites in aerial photographs and LiDAR-derived digital elevation models.<br>• Tested k-means clustering and random forest classification in R to classify islands in Sentinel-2 satellite imagery.<br>• Prepared training images for machine learning using ArcGIS Pro, Python, and Roboflow."
     url: https://nick-gauthier.github.io
   categories: ["gis", "research", "coding"]
-  tags: ["Research", "ArcGIS Suite"]
+  tags: ["Research", "ArcGIS Suite", "Python"]
 
 - title: GIS & Programs Intern
   publishedIn:
@@ -61,7 +61,7 @@ publications:
     summary: "<i>CDLS grows leaders who solve environmental problems and create pathways to sustainability.</i><br>• Planning curriculum for <i>GIS for Community Health</i>, a program teaching community health promoters, recent graduates, and high school students how to map issues impacting their communities using QGIS."
     url: https://www.ioes.ucla.edu/person/olivia-zhang
   categories: ["gis"]
-  tags: ["QGIS"]
+  tags: ["QGIS", "Teaching"]
 
 - title: Researcher
   publishedIn:
@@ -72,7 +72,7 @@ publications:
     summary: "<i>NSF-funded Research Experience for Undergraduates program, Online Interdisciplinary Big Data Analytics in Science and Engineering</i><br>• Developed workflow incorporating regression and clustering in Python to improve estimates of rainfall rate from weather radar data, improving accuracy and generating interpretable equations.<br>• Organized code in UMBC's high-performance computing cluster.<br>• Collaborated with multidisciplinary team to write research paper, published in 2024 IEEE International Conference on Big Data."
     url: https://doi.org/10.1109/BigData62323.2024.10825069
   categories: ["research", "coding"]
-  tags: ["Python"]
+  tags: ["Python", "Academic Writing"]
 
 - title: Intern
   publishedIn:

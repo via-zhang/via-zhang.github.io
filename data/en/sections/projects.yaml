@@ -83,13 +83,13 @@ projects:
   summary: With the Election Lab at the University of Florida, I created this Story Map about inactive voters based on our analysis of Florida voter files since 2016. We presented our research at the 2024 Election Science, Reform, and Administration Conference.
   tags: ["Research", "GIS"]
 
-- name: Mapping Hurricanes with NEXRAD Radar Data
-  role: Python
-  image: /images/sections/projects/map_nexrad_klix_200508_reflectivity_timelapse.gif
-  timeline: "September 2024"
-  url: https://github.com/via-zhang/portfolio/blob/main/maps/radar/map_nexrad_radar.ipynb
-  summary: This Jupyter Notebook uses Python to load NEXRAD radar reflectivity data, download maps, and create a timelapse representing hurricanes and storms.
-  tags: ["Code"]
+# - name: Mapping Hurricanes with NEXRAD Radar Data
+#   role: Python
+#   image: /images/sections/projects/map_nexrad_klix_200508_reflectivity_timelapse.gif
+#   timeline: "September 2024"
+#   url: https://github.com/via-zhang/portfolio/blob/main/maps/radar/map_nexrad_radar.ipynb
+#   summary: This Jupyter Notebook uses Python to load NEXRAD radar reflectivity data, download maps, and create a timelapse representing hurricanes and storms.
+#   tags: ["Code"]
 
 - name: Visualizing Local Sea Level Change
   role: Python
