@@ -23,7 +23,7 @@ projects:
   role: ArcGIS Online, Data from API
   image: /images/sections/projects/dashboard_globe_community_science.png
   timeline: "September 2024 - Present"
-  url: https://experience.arcgis.com/experience/4af431dacaa44f318d38faf7afb1b5b7/
+  url: https://experience.arcgis.com/experience/15c3e38176ec44d1a2f250c218343b4b
   summary: As part of the Geospatial Digital Informatics Lab at the Unviersity of Florida, I am creating this dashboard to visualize community science data (collected by people around the world) about mosquito habitats.
   tags: ["Research", "GIS"]
 
