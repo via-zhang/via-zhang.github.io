@@ -25,7 +25,7 @@ publications:
     date: October 2024 - Present
     url: https://geodi.geog.ufl.edu
   paper:
-    summary: "<i>Research lab studying people & nature with remote sensing, geospatial AI and citizen science.</i><br>• Creating tutorials explaining how to analyze citizen science data with Python and Google Earth Engine.<br>• Developed interactive dashboard visualizing citizen science data about mosquito habitats, designed to raise awareness and encourage more participation in open-source data collection for NASA GLOBE."
+    summary: "<i>Research lab studying human-environment interactions with remote sensing, geospatial AI, and citizen science.</i><br>• Creating tutorials explaining how to analyze citizen science data with Python and Google Earth Engine.<br>• Developed interactive dashboard visualizing citizen science data about mosquito habitats, designed to raise awareness and encourage more participation in open-source data collection for NASA GLOBE."
     url: https://geodi.geog.ufl.edu
   categories: ["gis", "research"]
   tags: ["Research", "Python", "Google Earth Engine"]
@@ -65,7 +65,7 @@ publications:
 
 - title: Early-Career Fellow
   publishedIn:
-    name: Center for Diverse Leadership in Science (CDLS), University of California, Los Angeles
+    name: Center for Developing Leadership in Science (CDLS), University of California, Los Angeles
     date: December 2024 - Present
     url: https://www.ioes.ucla.edu/cdls
   paper:
