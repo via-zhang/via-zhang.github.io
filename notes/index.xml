@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notes on Olivia Zhang</title><link>https://via-zhang.github.io/notes/</link><description>Recent content in Notes on Olivia Zhang</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Jun 2010 08:06:25 +0600</lastBuildDate><atom:link href="https://via-zhang.github.io/notes/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Map Gallery on Olivia Zhang</title><link>https://via-zhang.github.io/notes/</link><description>Recent content in Map Gallery on Olivia Zhang</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Jun 2010 08:06:25 +0600</lastBuildDate><atom:link href="https://via-zhang.github.io/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Environment</title><link>https://via-zhang.github.io/notes/environment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-zhang.github.io/notes/environment/</guid><description>&lt;!-- Florida Rivers -->
+&lt;div class="note-card ">
+&lt;div class="item">
+&lt;h5 class="note-title">&lt;span>Florida Rivers&lt;/span>&lt;/h5>
+&lt;div class="card">
+&lt;div class="card-body">&lt;p>Made using river Relative Elevation Model (REM) images,
+&lt;br>processed using Python &lt;a href="https://github.com/OpenTopography/RiverREM" target="_blank" rel="noopener">RiverREM&lt;/a> package with Digital
+&lt;br>Elevation Model (DEM) data from &lt;a href="https://coast.noaa.gov/slrdata/DEMs/FL/index.html" target="_blank" rel="noopener">NOAA&lt;/a> for Florida amd
+&lt;br>visualized using ArcGIS Pro.&lt;/p>
+&lt;img src="https://via-zhang.github.io/notes/environment/fl_rem.png" alt="Three maps of rivers." height="300">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;!-- -->
+&lt;div class="note-card ">
+&lt;div class="item">
+&lt;h5 class="note-title">&lt;span>Sea Level Rise&lt;/span>&lt;/h5>
+&lt;div class="card">
+&lt;div class="card-body">&lt;p>By 2090, there will be 11.4% more land submerged
+&lt;br>below sea level in Miami-Dade County compared to 2020.
+&lt;br>Made using &lt;a href="maps.arcgis.com/home/item.html?id=dfaa88995dcc487594185286c63fc82c">NOAA sea level rise data&lt;/a> in ArcGIS Pro.&lt;/p>
+&lt;img src="https://via-zhang.github.io/notes/environment/Miami_Sea_Level_Rise.png" alt="Map of sea level rise." height="325">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="note-card ">
+&lt;div class="item">
+&lt;h5 class="note-title">&lt;span>Sea Level Rise&lt;/span>&lt;/h5>
+&lt;div class="card">
+&lt;div class="card-body">&lt;img src="https://via-zhang.github.io/climate-storytelling/sea-level-projection/fl_se_slr_depth_timelapse.gif" alt="Map of sea level rise." height="500">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Demographic</title><link>https://via-zhang.github.io/notes/demographic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-zhang.github.io/notes/demographic/</guid><description/></item></channel></rss>
