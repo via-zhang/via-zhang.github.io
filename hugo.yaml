@@ -52,7 +52,7 @@ params:
 
   # Configure the number of section titles visible in the top navbar
   topNavbar:
-    maxVisibleSections: 6
+    maxVisibleSections: 7
 
   # Configure various features of this theme
   features:
@@ -66,6 +66,9 @@ params:
 
     # Enable and configure portfolio
     portfolio:
+      enable: true
+
+    notes:
       enable: true
 
     # Enable and configure blog posts
