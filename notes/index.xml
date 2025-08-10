@@ -3,32 +3,34 @@
 &lt;div class="item">
 &lt;h5 class="note-title">&lt;span>Florida Rivers&lt;/span>&lt;/h5>
 &lt;div class="card">
-&lt;div class="card-body">&lt;p>Made using river Relative Elevation Model (REM) images,
-&lt;br>processed using Python &lt;a href="https://github.com/OpenTopography/RiverREM" target="_blank" rel="noopener">RiverREM&lt;/a> package with Digital
-&lt;br>Elevation Model (DEM) data from &lt;a href="https://coast.noaa.gov/slrdata/DEMs/FL/index.html" target="_blank" rel="noopener">NOAA&lt;/a> for Florida amd
-&lt;br>visualized using ArcGIS Pro.&lt;/p>
-&lt;img src="https://via-zhang.github.io/notes/environment/fl_rem.png" alt="Three maps of rivers." height="300">&lt;/div>
+&lt;div class="card-body">&lt;p>Maps of river Relative Elevation Model (REM) for three rivers in Florida, processed using Python &lt;a href="https://github.com/OpenTopography/RiverREM" target="_blank" rel="noopener">RiverREM&lt;/a> package with data from &lt;a href="https://coast.noaa.gov/slrdata/DEMs/FL/index.html" target="_blank" rel="noopener">NOAA&lt;/a>, visualized using ArcGIS Pro.&lt;/p>
+&lt;p>&lt;img src="https://via-zhang.github.io/notes/environment/fl_rem.png" alt="Three maps of rivers">&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;!-- -->
+&lt;/div>
+&lt;!-- Dashboard -->
+&lt;div class="note-card ">
+&lt;div class="item">
+&lt;h5 class="note-title">&lt;span>Fires&lt;/span>&lt;/h5>
+&lt;div class="card">
+&lt;div class="card-body">&lt;p>This &lt;a href="https://experience.arcgis.com/experience/b66cb0a7b68f4e3cab71fcaa58744a31" target="_blank" rel="noopener">dashboard&lt;/a> visualizes shows &lt;a href="https://www.arcgis.com/home/item.html?id=405814902c9e411cb4384c49d694e82b" target="_blank" rel="noopener">data&lt;/a> about wildfire incidents from the Wildland Fire Interagency Geospatial Services (WFIGS) Group.&lt;/p>
+&lt;img src="https://via-zhang.github.io/notes/environment/dashboard_fires.png" alt="Dashboard of fires across the US.">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;!-- Sea level rise -->
 &lt;div class="note-card ">
 &lt;div class="item">
 &lt;h5 class="note-title">&lt;span>Sea Level Rise&lt;/span>&lt;/h5>
 &lt;div class="card">
-&lt;div class="card-body">&lt;p>By 2090, there will be 11.4% more land submerged
-&lt;br>below sea level in Miami-Dade County compared to 2020.
-&lt;br>Made using &lt;a href="maps.arcgis.com/home/item.html?id=dfaa88995dcc487594185286c63fc82c">NOAA sea level rise data&lt;/a> in ArcGIS Pro.&lt;/p>
-&lt;img src="https://via-zhang.github.io/notes/environment/Miami_Sea_Level_Rise.png" alt="Map of sea level rise." height="325">&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;/div>
+&lt;div class="card-body">&lt;p>Sea level rise in Miami-Dade County using &lt;a href="maps.arcgis.com/home/item.html?id=dfaa88995dcc487594185286c63fc82c">NOAA&lt;/a> data, visualized using ArcGIS Pro.&lt;/p></description></item><item><title>Demographic</title><link>https://via-zhang.github.io/notes/demographic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-zhang.github.io/notes/demographic/</guid><description>&lt;!-- Dashboard -->
 &lt;div class="note-card ">
 &lt;div class="item">
-&lt;h5 class="note-title">&lt;span>Sea Level Rise&lt;/span>&lt;/h5>
+&lt;h5 class="note-title">&lt;span>Air Pollution&lt;/span>&lt;/h5>
 &lt;div class="card">
-&lt;div class="card-body">&lt;img src="https://via-zhang.github.io/climate-storytelling/sea-level-projection/fl_se_slr_depth_timelapse.gif" alt="Map of sea level rise." height="500">
+&lt;div class="card-body">&lt;p>This &lt;a href="https://experience.arcgis.com/experience/72947b3722b0478fa3dc69648c4a7eee/" target="_blank" rel="noopener">dashboard&lt;/a> visualizes &lt;a href="https://www.countyhealthrankings.org/" target="_blank" rel="noopener">county-level particulate matter data&lt;/a> across the U.S., made in collaboration with another student.&lt;/p>
+&lt;img src="https://via-zhang.github.io/notes/demographic/dashboard_air_pollution.png" alt="Dashboard of air pollution across the US.">&lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;/div>
-&lt;/div></description></item><item><title>Demographic</title><link>https://via-zhang.github.io/notes/demographic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://via-zhang.github.io/notes/demographic/</guid><description/></item></channel></rss>
+&lt;/div></description></item></channel></rss>
