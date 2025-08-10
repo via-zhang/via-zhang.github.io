@@ -27,6 +27,12 @@ projects:
   summary: Co-created a digital textbook that includes coding tutorials, showing how to process and analyze environmental & community science data using Python and Google Earth Engine. [Geospatial Digital Informatics Lab at the Unviersity of Florida]
   tags: ["GIS", "Code"]
 
+- name: Map Gallery
+  image: /images/sections/projects/fl_rem.png
+  url: https://via-zhang.github.io/notes
+  summary: A gallery of various maps I have made.
+  tags: ["GIS", "Code"]
+
 - name: Community Science for Mosquito Mapping Dashboard
   role: ArcGIS Online, Data from API
   image: /images/sections/projects/dashboard_globe_community_science.png

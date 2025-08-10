@@ -10,26 +10,25 @@ menu:
 
 <!-- Florida Rivers -->
 {{< note title="Florida Rivers">}}
-Made using river Relative Elevation Model (REM) images,
-<br>processed using Python [RiverREM](https://github.com/OpenTopography/RiverREM) package with Digital
-<br>Elevation Model (DEM) data from [NOAA](https://coast.noaa.gov/slrdata/DEMs/FL/index.html) for Florida amd
-<br>visualized using ArcGIS Pro.
 
-<img src="/notes/environment/fl_rem.png" alt="Three maps of rivers." height="300">
+Maps of river Relative Elevation Model (REM) for three rivers in Florida, processed using Python [RiverREM](https://github.com/OpenTopography/RiverREM) package with data from [NOAA](https://coast.noaa.gov/slrdata/DEMs/FL/index.html), visualized using ArcGIS Pro.
+
+![Three maps of rivers](/notes/environment/fl_rem.png)
 
 {{< /note >}}
 
-<!--  -->
-{{< note title="Sea Level Rise">}}
-By 2090, there will be 11.4% more land submerged 
-<br>below sea level in Miami-Dade County compared to 2020.
-<br>Made using [NOAA sea level rise data](maps.arcgis.com/home/item.html?id=dfaa88995dcc487594185286c63fc82c) in ArcGIS Pro.
+<!-- Dashboard -->
+{{< note title="Fires">}}
+This [dashboard](https://experience.arcgis.com/experience/b66cb0a7b68f4e3cab71fcaa58744a31) visualizes shows [data](https://www.arcgis.com/home/item.html?id=405814902c9e411cb4384c49d694e82b) about wildfire incidents from the Wildland Fire Interagency Geospatial Services (WFIGS) Group.
 
-<img src="/notes/environment/Miami_Sea_Level_Rise.png" alt="Map of sea level rise." height="325">
+<img src="/notes/environment/dashboard_fires.png" alt="Dashboard of fires across the US.">
 
 {{< /note >}}
 
+<!-- Sea level rise -->
 {{< note title="Sea Level Rise">}}
-<img src="https://via-zhang.github.io/climate-storytelling/sea-level-projection/fl_se_slr_depth_timelapse.gif" alt="Map of sea level rise." height="500">
+Sea level rise in Miami-Dade County using [NOAA](maps.arcgis.com/home/item.html?id=dfaa88995dcc487594185286c63fc82c) data, visualized using ArcGIS Pro.
+
+<img src="/notes/environment/Miami_Sea_Level_Rise.png" alt="Map of sea level rise." height="50%" width="50%">
 
 {{< /note >}}
