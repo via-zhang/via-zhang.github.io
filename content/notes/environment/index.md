@@ -11,9 +11,9 @@ menu:
 <!-- Florida Rivers -->
 {{< note title="Florida Rivers">}}
 
-Maps of river Relative Elevation Model (REM) for three rivers in Florida, processed using Python [RiverREM](https://github.com/OpenTopography/RiverREM) package with data from [NOAA](https://coast.noaa.gov/slrdata/DEMs/FL/index.html), visualized using ArcGIS Pro.
+Maps of river Relative Elevation Model (REM) for three rivers in Florida, processed using Python [RiverREM](https://github.com/OpenTopography/RiverREM) package with data from [NOAA](https://coast.noaa.gov/slrdata/DEMs/FL/index.html) and visualized using ArcGIS Pro.
 
-![Three maps of rivers](/notes/environment/fl_rem.png)
+![Three maps of rivers](/notes/environment/fl_rem_cartographic.png)
 
 {{< /note >}}
 

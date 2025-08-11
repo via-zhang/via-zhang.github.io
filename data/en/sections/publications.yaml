@@ -41,6 +41,17 @@ publications:
   categories: ["gis", "coding"]
   tags: ["ArcGIS Suite", "Writing", "Video Editing", "Python"]
 
+- title: GIS & Programs Intern
+  publishedIn:
+    name: trubel&co
+    date: December 2023 - December 2024 (Volunteer), December 2024 - Present (Intern)
+    url: https://www.trubel.co
+  paper:
+    summary: "<i>trubel&co is a nonprofit that hosts educational programs for youth about using data, design, and technology for social justice.</i><br>• Conducting outreach with partner organizations for <i>Mapping Justice</i>, a course teaching GIS for climate justice.<br>• Helped host <i>EcoGIS: Mapping Environmentally Just Futures</i>, a 3-part virtual workshop series for students and young professionals about GIS for environmental justice in Florida.<br>• Developed a workshop to teach high school students how to analyze and map climate data with Python."
+    url: https://www.trubel.co/m-j
+  categories: ["gis"]
+  tags: ["ArcGIS Suite", "Canva"]
+
 - title: Undergraduate Research Assistant
   publishedIn:
     name: AI for Bio/Cultural Diversity Lab, Florida Museum of Natural History
@@ -52,16 +63,16 @@ publications:
   categories: ["gis", "research", "coding"]
   tags: ["Research", "ArcGIS Suite", "Python"]
 
-- title: GIS & Programs Intern
+- title: Student Assistant
   publishedIn:
-    name: trubel&co
-    date: December 2023 - December 2024 (Volunteer), December 2024 - Present (Intern)
-    url: https://www.trubel.co
+    name: Geo-Facilities Planning and Information Research (GeoPlan) Center
+    date: May 2025 - Present
+    url: https://www.geoplan.ufl.edu
   paper:
-    summary: "<i>trubel&co is a nonprofit that hosts educational programs for youth about using data, design, and technology for social justice.</i><br>• Conducting outreach with partner organizations for <i>Mapping Justice</i>, a course teaching GIS for climate justice.<br>• Helped host <i>EcoGIS: Mapping Environmentally Just Futures</i>, a 3-part virtual workshop series for students and young professionals about GIS for environmental justice in Florida.<br>• Developed a workshop to teach high school students how to analyze and map climate data with Python."
-    url: https://www.trubel.co/m-j
-  categories: ["gis"]
-  tags: ["ArcGIS Suite", "Canva"]
+    summary: "<i>The GeoPlan Center provides geospatial data, training, and education to support land use, transportation, and environmental planning in Florida.</i><br>• Cleaning and standardizing data to be featured in the Florida Geographic Data Library, an online library of free geospatial data for Florida.<br>• Reviewed flooding over 300+ bridges in ArcGIS Pro to support sea level rise mapping."
+    url: https://www.geoplan.ufl.edu
+  categories: ["gis", "coding"]
+  tags: ["ArcGIS Suite", "Python (ArcPy)", "Metadata"]
 
 - title: Early-Career Fellow
   publishedIn:
@@ -84,28 +95,6 @@ publications:
     url: https://doi.org/10.1109/BigData62323.2024.10825069
   categories: ["research", "coding"]
   tags: ["Python", "Academic Writing"]
-
-- title: Intern
-  publishedIn:
-    name: Institute of Food and Agricultural Sciences (UF/IFAS) Extension, University of Florida
-    date: January 2024 - May 2024
-    url: https://ifas.ufl.edu
-  paper:
-    summary: "<i>UF/IFAS Extension is a partnership dedicated to creating accessible knowledge in agricultural and natural resources.</i><br>• Cleaned survey data about well history in Excel and built ArcGIS Dashboard of well water quality.<br>• Wrote collaborative literature review about climate-smart agriculture to inform educational programs."
-    url: https://ifas.ufl.edu
-  categories: ["gis"]
-  tags: ["ArcGIS Dashboard", "Excel"]
-
-- title: Intern
-  publishedIn:
-    name: Conscious Kitchen, Turning Green
-    date: September 2023 - May 2024
-    url: https://www.consciouskitchen.org
-  paper:
-    summary: "<i>Conscious Kitchen is a nonprofit that partners with schools in California to increase access to organic, fresh meals.</i><br>• Built ArcGIS Dashboard of organic farms in California to connect schools with local farmers.<br>• Designed posts about organic produce in Canva and calculated costs of organic ingredients to improve documentation."
-    url: https://www.consciouskitchen.org
-  categories: ["gis"]
-  tags: ["ArcGIS Suite"]
 
 # - title: 
 #   publishedIn:
