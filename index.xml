@@ -7,8 +7,8 @@
 &lt;div class="item">
 &lt;h5 class="note-title">&lt;span>Florida Rivers&lt;/span>&lt;/h5>
 &lt;div class="card">
-&lt;div class="card-body">&lt;p>Maps of river Relative Elevation Model (REM) for three rivers in Florida, processed using Python &lt;a href="https://github.com/OpenTopography/RiverREM" target="_blank" rel="noopener">RiverREM&lt;/a> package with data from &lt;a href="https://coast.noaa.gov/slrdata/DEMs/FL/index.html" target="_blank" rel="noopener">NOAA&lt;/a>, visualized using ArcGIS Pro.&lt;/p>
-&lt;p>&lt;img src="https://via-zhang.github.io/notes/environment/fl_rem.png" alt="Three maps of rivers">&lt;/p>
+&lt;div class="card-body">&lt;p>Maps of river Relative Elevation Model (REM) for three rivers in Florida, processed using Python &lt;a href="https://github.com/OpenTopography/RiverREM" target="_blank" rel="noopener">RiverREM&lt;/a> package with data from &lt;a href="https://coast.noaa.gov/slrdata/DEMs/FL/index.html" target="_blank" rel="noopener">NOAA&lt;/a> and visualized using ArcGIS Pro.&lt;/p>
+&lt;p>&lt;img src="https://via-zhang.github.io/notes/environment/fl_rem_cartographic.png" alt="Three maps of rivers">&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
