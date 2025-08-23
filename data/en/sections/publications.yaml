@@ -19,13 +19,25 @@ buttons:
 
 # experiences
 publications:
+
+- title: Undergraduate Research Assistant
+  publishedIn:
+    name: Ecosystem Services and GeoAI Lab
+    date: January 2025 - Present
+    url: https://changzhao-geods.github.io/Ecosystem-Services-GeoAI-Lab
+  paper:
+    summary: "<i>Research lab (led by Dr. Chang Zhao) studying where and how nature provides benefits to communities.</i><br>• Developing workflow to standardize data about urban farms and community gardens from various sources.<br>• Processing high-resolution imagery from the National Agriculture Imagery Program to analyze urban agriculture sites."
+    url: https://changzhao-geods.github.io/Ecosystem-Services-GeoAI-Lab
+  categories: ["gis", "research"]
+  tags: ["Research", "AI", "Python", "ArcGIS"]
+
 - title: Undergraduate Research Assistant
   publishedIn:
     name: Geospatial Digital Informatics (GeoDI) Lab
     date: October 2024 - Present
     url: https://geodi.geog.ufl.edu
   paper:
-    summary: "<i>Research lab studying human-environment interactions with remote sensing, geospatial AI, and citizen science.</i><br>• Creating tutorials explaining how to analyze citizen science data with Python and Google Earth Engine.<br>• Developed interactive dashboard visualizing citizen science data about mosquito habitats, designed to raise awareness and encourage more participation in open-source data collection for NASA GLOBE."
+    summary: "<i>Research lab (led by Dr. Di Yang) studying human-environment interactions with remote sensing, geospatial AI, and citizen science.</i><br>• Creating tutorials explaining how to analyze citizen science data with Python and Google Earth Engine.<br>• Developed interactive dashboard visualizing citizen science data about mosquito habitats, designed to raise awareness and encourage more participation in open-source data collection for NASA GLOBE."
     url: https://geodi.geog.ufl.edu
   categories: ["gis", "research"]
   tags: ["Research", "Python", "Google Earth Engine"]
@@ -36,7 +48,7 @@ publications:
     date: May 2022 - March 2023 (Intern), March 2023 - Present (Analyst)
     url: https://fireneuralnetwork.com
   paper:
-    summary: "<i>Fire Neural Network gives firefighters timely alerts about lightning strikes likely to cause wildfires - through a combination of AI, drones, and GIS mapping.</i><br>• Created interactive ArcGIS dashboards displaying real-time lightning and wildfire data used by firefighters, along with instructional videos and user guides explaining how to use the dashboards.<br>• Analyzed 500+ satellite images to locate burned areas from lightning-caused wildfires, helping train machine learning model.<br>• Organized files, researched datasets, documented progress, and helped write final reports."
+    summary: "<i>Fire Neural Network gives firefighters timely alerts about lightning strikes likely to cause wildfires - through a combination of AI, drones, and GIS mapping.</i><br>• Built interactive dashboards with lightning and fire data in ArcGIS Online, used by stakeholders to identify dangerous lightning likely to ignite wildfires.<br>• Created videos demonstrating each dashboard's features.<br>• Analyzed 500+ satellite images to locate burned areas from lightning-caused wildfires, helping train machine learning model."
     url: https://fireneuralnetwork.com
   categories: ["gis", "coding"]
   tags: ["ArcGIS Suite", "Writing", "Video Editing", "Python"]
@@ -47,7 +59,7 @@ publications:
     date: December 2023 - December 2024 (Volunteer), December 2024 - Present (Intern)
     url: https://www.trubel.co
   paper:
-    summary: "<i>trubel&co is a nonprofit that hosts educational programs for youth about using data, design, and technology for social justice.</i><br>• Conducting outreach with partner organizations for <i>Mapping Justice</i>, a course teaching GIS for climate justice.<br>• Helped host <i>EcoGIS: Mapping Environmentally Just Futures</i>, a 3-part virtual workshop series for students and young professionals about GIS for environmental justice in Florida.<br>• Developed a workshop to teach high school students how to analyze and map climate data with Python."
+    summary: "<i>trubel&co is a nonprofit that hosts educational programs for youth about using data, design, and technology for social justice.</i><br>• Planned curriculum and coordinated Data Storytelling for Environmental Action, 3-week program for 50+ young professionals teaching GIS and data analysis.<br>• Helped coordinate Mapping Justice: Gulf Coast, a summer program teaching high school students how to leverage GIS, data, and design to address environmental issues.<br>• Developed repository of publicly-available spatial datasets for students to use for GIS projects."
     url: https://www.trubel.co/m-j
   categories: ["gis"]
   tags: ["ArcGIS Suite", "Canva"]
@@ -58,7 +70,7 @@ publications:
     date: January 2024 - Present
     url: https://www.floridamuseum.ufl.edu
   paper:
-    summary: "<i>The AI for Bio/Cultural Diversity Lab is a research lab at the museum that applies AI to the study of biodiversity and cultural history.</i><br>• Fine-tuned open-source object detection models in Python to identify archaeological sites in aerial photographs and LiDAR-derived digital elevation models.<br>• Tested k-means clustering and random forest classification in R to classify islands in Sentinel-2 satellite imagery.<br>• Prepared training images for machine learning using ArcGIS Pro, Python, and Roboflow."
+    summary: "<i>Research lab (led by Dr. Nicolas Gauthier) applying AI to the study of biodiversity and cultural history.</i><br>• Fine-tuned open-source object detection models in Python to identify archaeological sites in aerial photographs and LiDAR-derived digital elevation models.<br>• Tested k-means clustering and random forest classification in R to classify islands in Sentinel-2 satellite imagery.<br>• Prepared training images for machine learning using ArcGIS Pro, Python, and Roboflow."
     url: https://nick-gauthier.github.io
   categories: ["gis", "research", "coding"]
   tags: ["Research", "ArcGIS Suite", "Python"]
@@ -94,7 +106,7 @@ publications:
     summary: "<i>NSF-funded Research Experience for Undergraduates program, Online Interdisciplinary Big Data Analytics in Science and Engineering</i><br>• Developed workflow incorporating regression and clustering in Python to improve estimates of rainfall rate from weather radar data, improving accuracy and generating interpretable equations.<br>• Organized code in UMBC's high-performance computing cluster.<br>• Collaborated with multidisciplinary team to write research paper, published in 2024 IEEE International Conference on Big Data."
     url: https://doi.org/10.1109/BigData62323.2024.10825069
   categories: ["research", "coding"]
-  tags: ["Python", "Academic Writing"]
+  tags: ["Python", "High-Performance Computing", "Writing"]
 
 # - title: 
 #   publishedIn:
