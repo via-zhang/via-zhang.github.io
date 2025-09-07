@@ -8,7 +8,7 @@ section:
   showOnNavbar: true
 
 degrees:
-- name: Bachelor of Science with double major in Geography and Data Science
+- name: Bachelor of Science in Geography and Data Science
   icon: fa-graduation-cap
   timeframe: "Expected: 2027"
   institution:
@@ -24,7 +24,7 @@ degrees:
     - name: Programming with Data in R
     - name: Computational Linear Algebra
   extracurricularActivities:
-  - Pursuing certificate in Geographic AI and Big Data.
+  - Minor in GeoAI and Geographic Analysis.
   - Ambassador for Geography Department, sharing resources and opportunities with students.
 
 - name: Associate of Arts

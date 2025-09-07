@@ -27,6 +27,14 @@ projects:
   summary: Co-created a digital textbook that includes coding tutorials, showing how to process and analyze environmental & community science data using Python and Google Earth Engine. [Geospatial Digital Informatics Lab at the Unviersity of Florida]
   tags: ["GIS", "Code"]
 
+- name: Land Cover Change Web App
+  role: Google Earth Engine
+  image: /images/sections/projects/land_cover.png
+  timeline: September 2025
+  url: https://via-zhang.users.earthengine.app/view/land-cover
+  summary: Interactive web app created using JavaScript (Google Earth Engine) visualizing land cover change over 20 years.
+  tags: ["Code"]
+
 - name: Map Gallery
   image: /images/sections/projects/fl_rem_cartographic.png
   url: https://via-zhang.github.io/notes
