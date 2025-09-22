@@ -53,6 +53,17 @@ publications:
   categories: ["gis", "coding"]
   tags: ["ArcGIS Suite", "Writing", "Video Editing", "Python"]
 
+- title: Informatics Intern
+  publishedIn:
+    name: AI for Bio/Cultural Diversity Lab, Florida Museum of Natural History
+    date: January 2024 - Present
+    url: https://www.floridamuseum.ufl.edu
+  paper:
+    summary: "<i>Research lab (led by Dr. Nicolas Gauthier) applying AI to the study of biodiversity and cultural history.</i><br>• Fine-tuned open-source object detection models in Python to identify archaeological sites in aerial photographs and LiDAR-derived digital elevation models.<br>• Tested k-means clustering and random forest classification in R to classify islands in Sentinel-2 satellite imagery.<br>• Prepared training images for machine learning using ArcGIS Pro, Python, and Roboflow."
+    url: https://nick-gauthier.github.io
+  categories: ["gis", "research", "coding"]
+  tags: ["Research", "ArcGIS Suite", "Python"]
+
 - title: Undergraduate Research Assistant
   publishedIn:
     name: Ecosystem Services and GeoAI Lab
@@ -63,17 +74,6 @@ publications:
     url: https://changzhao-geods.github.io/Ecosystem-Services-GeoAI-Lab
   categories: ["gis", "research"]
   tags: ["Research", "AI", "Python", "ArcGIS"]
-
-- title: Undergraduate Research Assistant
-  publishedIn:
-    name: AI for Bio/Cultural Diversity Lab, Florida Museum of Natural History
-    date: January 2024 - Present
-    url: https://www.floridamuseum.ufl.edu
-  paper:
-    summary: "<i>Research lab (led by Dr. Nicolas Gauthier) applying AI to the study of biodiversity and cultural history.</i><br>• Fine-tuned open-source object detection models in Python to identify archaeological sites in aerial photographs and LiDAR-derived digital elevation models.<br>• Tested k-means clustering and random forest classification in R to classify islands in Sentinel-2 satellite imagery.<br>• Prepared training images for machine learning using ArcGIS Pro, Python, and Roboflow."
-    url: https://nick-gauthier.github.io
-  categories: ["gis", "research", "coding"]
-  tags: ["Research", "ArcGIS Suite", "Python"]
 
 - title: Student Assistant
   publishedIn:
