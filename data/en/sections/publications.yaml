@@ -10,12 +10,12 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Research
-  filter: "research"
 - name: GIS
   filter: "gis"
 - name: Coding
   filter: "coding"
+- name: Research
+  filter: "research"
 
 # experiences
 publications:
@@ -29,7 +29,7 @@ publications:
     summary: "<i>Research lab (led by Dr. Di Yang) studying human-environment interactions with remote sensing, geospatial AI, and citizen science.</i><br>• Creating tutorials explaining how to analyze citizen science data with Python and Google Earth Engine.<br>• Developed interactive dashboard visualizing citizen science data about mosquito habitats, designed to raise awareness and encourage more participation in open-source data collection for NASA GLOBE."
     url: https://geodi.geog.ufl.edu
   categories: ["gis", "research"]
-  tags: ["Research", "Python", "Google Earth Engine"]
+  tags: ["Research", "Python", "Google Earth Engine", "Grant Writing"]
 
 - title: Geospatial Data Intern
   publishedIn:
@@ -40,7 +40,7 @@ publications:
     summary: "<i>trubel&co is a nonprofit that hosts educational programs for youth about using data, design, and technology for social justice.</i><br>• Planned curriculum and coordinated Data Storytelling for Environmental Action, 3-week program for 50+ young professionals teaching GIS and data analysis.<br>• Helped coordinate Mapping Justice: Gulf Coast, a summer program teaching high school students how to leverage GIS, data, and design to address environmental issues.<br>• Developed repository of publicly-available spatial datasets for students to use for GIS projects."
     url: https://www.trubel.co/m-j
   categories: ["gis"]
-  tags: ["ArcGIS Suite", "Canva"]
+  tags: ["ArcGIS Suite", "Canva", "Grant Writing"]
 
 - title: Geographic Information Systems (GIS) Analyst
   publishedIn:

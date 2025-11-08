@@ -8,7 +8,7 @@ section:
   showOnNavbar: true
 
 degrees:
-- name: Bachelor of Science in Geography and Data Science
+- name: "B.Sc. in Geography and Data Science"
   icon: fa-graduation-cap
   timeframe: "Expected: 2027"
   institution:
@@ -20,19 +20,20 @@ degrees:
     courses:
     - name: "Radar & Satellite Meteorology: graduate course using MATLAB to process radar and satellite data"
     - name: "Geophysical Exploration of the Cryosphere: research course using Python to estimate and map the seafloor beneath ice shelves"
-    - name: Introduction to Quantitative Analysis for Geographers
-    - name: Programming with Data in R
-    - name: Computational Linear Algebra
+    - name: "Introduction to Quantitative Analysis for Geographers"
+    - name: "Programming with Data in R"
+    - name: "Computational Linear Algebra"
   extracurricularActivities:
   - Minor in GeoAI and Geographic Analysis.
+  - Co-founded Data Science for Sustainable Development university chapter and The GeoScholar Journal.
   - Ambassador for Geography Department, sharing resources and opportunities with students.
 
-- name: Associate of Arts
-  icon: fa-book
-  timeframe: 2023
-  institution:
-    name: College Academy at Broward College
-    url: "https://www.browardschools.com/collegeacademy"
-  customSections:
-    - name: About
-      content: Received an Associate of Arts degree from Broward College at the same time as my high school diploma through an accelerated dual-enrollment program.
+# - name: Associate of Arts
+#   icon: fa-book
+#   timeframe: 2023
+#   institution:
+#     name: College Academy at Broward College
+#     url: "https://www.browardschools.com/collegeacademy"
+#   customSections:
+#     - name: About
+#       content: Received an Associate of Arts degree from Broward College at the same time as my high school diploma through an accelerated dual-enrollment program.

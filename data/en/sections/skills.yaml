@@ -17,8 +17,6 @@ buttons:
   filter: "programming"
 - name: Content
   filter: "content"
-- name: Other
-  filter: "other"
 
 # skills
 skills:
@@ -54,7 +52,7 @@ skills:
 
 - name: Git/GitHub
   logo: images/sections/skills/icon_code.svg
-  summary: "Experienced with collaborative coding in GitHub."
+  summary: "Experienced with collaborative coding and version control in GitHub."
   categories: ["programming"]
 
 - name: LaTeX
@@ -76,7 +74,7 @@ skills:
 - name: Digital Art
   logo: images/sections/skills/icon_pen.svg
   summary: "Experienced creating digital artworks and videos."
-  categories: ["other"]
+  categories: ["content"]
 
 - name: JavaScript
   logo: images/sections/skills/icon_code.svg
