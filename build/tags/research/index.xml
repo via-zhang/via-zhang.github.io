@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Olivia Zhang</title>
+    <link>https://via-zhang.github.io/tags/research/</link>
+    <description>Recent content in Research on Olivia Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0600</lastBuildDate><atom:link href="https://via-zhang.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Detecting Shell Mounds in LiDAR Images</title>
+      <link>https://via-zhang.github.io/posts/shell-mounds/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/shell-mounds/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Shell mounds, or shell middens, are hills of accumulated shell (clams, oysters, and whelks), mud bricks, pottery shards, and other objects built up by generations of Indigenous peoples (Orengo et al., 2020; Florida Natural Areas Inventory, 2010). Shell mounds, found along the coastlines of the southeastern United States (Florida Natural Areas Inventory, 2010), give us a look at the past, helping us understand the lives of communities from hundreds to thousands of years ago. As such, they are a crucial part of our cultural landscape—imprinted evidence of history and heritage on the natural landscape (Taylor &amp;amp; Lennon, 2011).&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

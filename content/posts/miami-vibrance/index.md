@@ -7,7 +7,7 @@ menu:
     name: Vibrance of Miami
     identifier: miami-vibrance
     weight: 30
-tags: ["Art", "Data Analysis"]
+tags: ["Art", "Data"]
 mermaid: true
 ---
 

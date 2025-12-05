@@ -7,7 +7,7 @@ menu:
     name: Community Fellow
     identifier: bcls-fellow
     weight: 100
-tags: ["Community", "Extracurricular"]
+tags: ["Extracurricular"]
 mermaid: true
 ---
 

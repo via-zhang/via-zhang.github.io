@@ -8,7 +8,7 @@ menu:
     name: Gulf Scholars Conference
     identifier: trubel-summer
     weight: 8
-tags: ["Reflection"]
+tags: ["Reflection", "GIS"]
 mermaid: true
 ---
 

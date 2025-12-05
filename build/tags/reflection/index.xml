@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflection on Olivia Zhang</title>
+    <link>https://via-zhang.github.io/tags/reflection/</link>
+    <description>Recent content in Reflection on Olivia Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0600</lastBuildDate><atom:link href="https://via-zhang.github.io/tags/reflection/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Reflecting on a Summer of Mapping for Impact</title>
+      <link>https://via-zhang.github.io/posts/trubel-summer/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/trubel-summer/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Mapping Justice: Gulf Coast&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This summer, I supported &lt;a href=&#34;https://www.trubel.co/m-j&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping Justice&lt;/a&gt;, our 8-week summer program for high school students, where they learn about geographic information systems (GIS), environmental challenges along the Gulf Coast, and how they can design tools for impact. From helping with parts of the curriculum to editing recordings, I learned so much about all the behind-the-scenes work that ensures the program runs smoothly.&lt;/p&gt;
+&lt;p&gt;I am inspired by the students’ incredible work throughout the course of the program. You can view their &lt;a href=&#34;https://storymaps.arcgis.com/collections/2778e7dcdf294a378561f4b5a1dca8dd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;projects here&lt;/a&gt;, exploring environmental issues along the Gulf region. Helping with this program reminded me of my first time learning about GIS in high school, and how I found it so fascinating how we can use GIS to uncover spatial patterns and tell stories with data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reflecting on the Gulf Scholars Conference in Mobile, Alabama</title>
+      <link>https://via-zhang.github.io/posts/gulf-scholars/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/gulf-scholars/</guid>
+      <description>&lt;p&gt;I have been working with trubel&amp;amp;co since December 2023 and have loved every moment of it, from helping with EcoGIS workshops to Mapping Justice. Having been born in New Orleans and raised in South Florida, the Gulf is a region especially close to my heart. When I learned that trubel&amp;amp;co is expanding the Florida Mapping Justice program to all Gulf Coast states, I was very excited to be able to help.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Geospatial Data Workshop at the Student Sustainability Summit</title>
+      <link>https://via-zhang.github.io/posts/s3-summit/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/s3-summit/</guid>
+      <description>&lt;p&gt;Combining my passions for climate action, data science, and geography, I had the incredible opportunity to present at the 2025 &lt;a href=&#34;https://www.studentsustainabilitysummit.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Sustainability Summit&lt;/a&gt;. Along with two other University of Florida students, I led a workshop introducing how to analyze spatial data about wildfires in California as part of our presentation about the intersection of data science and sustainability.&lt;/p&gt;
+&lt;h2 id=&#34;data-science-for-sustainable-development&#34;&gt;Data Science for Sustainable Development&lt;/h2&gt;
+&lt;p&gt;In August 2024, I co-founded &lt;a href=&#34;https://gainesville.dssdglobal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Science for Sustainable Development (DSSD)&lt;/a&gt; at the University of Florida as a chapter of the &lt;a href=&#34;https://dssdglobal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nonprofit DSSD&lt;/a&gt;. DSSD’s mission is to apply &lt;b&gt;technology for positive impact&lt;/b&gt; in support of the Sustainable Development Goals. We provide technical services to nonprofits, startups, and researchers for web development, data analysis, and other projects&amp;mdash;all led by innovative teams of students passionate about data, computer science, and sustainability. At the Student Sustainability Summit, we presented about our ongoing projects and led an interactive coding workshop about analyzing fires in California.&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

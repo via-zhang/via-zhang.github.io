@@ -17,6 +17,23 @@ Maps of river Relative Elevation Model (REM) for three rivers in Florida, proces
 
 {{< /note >}}
 
+<!-- Team Rubicon -->
+{{< note title="Typhoon Halong">}}
+
+With Team Rubicon, I created this dashboard showing cell coverage in Alaska, as part of a larger [ArcGIS Hub site](https://geo-teamrubiconusa.hub.arcgis.com/), to support planning and field coordination during the response to Typhoon Halong in Alaska.
+
+![](/notes/environment/typhoon_halong.png)
+
+{{< /note >}}
+
+{{< note title="Hurricane Melissa">}}
+
+With Team Rubicon, I created maps for this published [story map](https://arcg.is/0OXrfS) showing where Team Rubicon volunteers traveled to support disaster response in impacted regions.
+
+![](/notes/environment/hurricane_melissa.png)
+
+{{< /note >}}
+
 <!-- Dashboard -->
 {{< note title="Fires">}}
 This [dashboard](https://experience.arcgis.com/experience/b66cb0a7b68f4e3cab71fcaa58744a31) visualizes shows [data](https://www.arcgis.com/home/item.html?id=405814902c9e411cb4384c49d694e82b) about wildfire incidents from the Wildland Fire Interagency Geospatial Services (WFIGS) Group.
@@ -32,3 +49,11 @@ Sea level rise in Miami-Dade County using [NOAA](maps.arcgis.com/home/item.html?
 <img src="/notes/environment/Miami_Sea_Level_Rise.png" alt="Map of sea level rise." height="50%" width="50%">
 
 {{< /note >}}
+
+<!-- {{< note title="Title">}}
+
+Description
+
+![](/notes/environment/image.png)
+
+{{< /note >}} -->

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Map Gallery on Olivia Zhang</title>
+    <link>https://via-zhang.github.io/notes/</link>
+    <description>Recent content in Map Gallery on Olivia Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jun 2010 08:06:25 +0600</lastBuildDate><atom:link href="https://via-zhang.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>Environment</title>
+      <link>https://via-zhang.github.io/notes/environment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://via-zhang.github.io/notes/environment/</guid>
+      <description>&lt;!-- Florida Rivers --&gt;
+&lt;div class=&#34;note-card &#34;&gt;
+    &lt;div class=&#34;item&#34;&gt;
+        &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Florida Rivers&lt;/span&gt;&lt;/h5&gt;
+        
+            &lt;div class=&#34;card&#34;&gt;
+                &lt;div class=&#34;card-body&#34;&gt;&lt;p&gt;Maps of river Relative Elevation Model (REM) for three rivers in Florida, processed using Python &lt;a href=&#34;https://github.com/OpenTopography/RiverREM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RiverREM&lt;/a&gt; package with data from &lt;a href=&#34;https://coast.noaa.gov/slrdata/DEMs/FL/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NOAA&lt;/a&gt; and visualized using ArcGIS Pro.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://via-zhang.github.io/notes/environment/fl_rem_cartographic.png&#34; alt=&#34;Three maps of rivers&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+            &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Team Rubicon --&gt;
+&lt;div class=&#34;note-card &#34;&gt;
+    &lt;div class=&#34;item&#34;&gt;
+        &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Typhoon Halong&lt;/span&gt;&lt;/h5&gt;
+        
+            &lt;div class=&#34;card&#34;&gt;
+                &lt;div class=&#34;card-body&#34;&gt;&lt;p&gt;With Team Rubicon, I created this dashboard showing cell coverage in Alaska, as part of a larger &lt;a href=&#34;https://geo-teamrubiconusa.hub.arcgis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS Hub site&lt;/a&gt;, to support planning and field coordination during the response to Typhoon Halong in Alaska.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Demographic</title>
+      <link>https://via-zhang.github.io/notes/demographic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://via-zhang.github.io/notes/demographic/</guid>
+      <description>&lt;!-- Dashboard --&gt;
+&lt;div class=&#34;note-card &#34;&gt;
+    &lt;div class=&#34;item&#34;&gt;
+        &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Air Pollution&lt;/span&gt;&lt;/h5&gt;
+        
+            &lt;div class=&#34;card&#34;&gt;
+                &lt;div class=&#34;card-body&#34;&gt;&lt;p&gt;This &lt;a href=&#34;https://experience.arcgis.com/experience/72947b3722b0478fa3dc69648c4a7eee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dashboard&lt;/a&gt; visualizes &lt;a href=&#34;https://www.countyhealthrankings.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;county-level particulate matter data&lt;/a&gt; across the U.S., made in collaboration with another student.&lt;/p&gt;
+&lt;img src=&#34;https://via-zhang.github.io/notes/demographic/dashboard_air_pollution.png&#34; alt=&#34;Dashboard of air pollution across the US.&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

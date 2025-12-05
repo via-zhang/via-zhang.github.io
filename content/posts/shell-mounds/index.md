@@ -8,7 +8,7 @@ menu:
     name: Detecting Shell Mounds
     identifier: shell-mounds
     weight: 20
-tags: ["Research", "Data Analysis"]
+tags: ["Research", "Data", "GIS"]
 mermaid: true
 ---
 

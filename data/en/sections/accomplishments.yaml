@@ -15,7 +15,7 @@ accomplishments:
         • <b>University of Florida AI Scholar (2025-2026)</b>: Awarded to support research, <i>High-Resolution Mapping of Urban Agriculture with GeoAI: Integrating Environmental and Social Sensing</i>.
     <br>• <b>Poster Award: Most Inspiring Emerging Work (2025)</b>: Recognized for presenting about \"Engaging Community Scientists in Mosquito Mapping\" at the 2025 Conference for Advancing the Participatory Sciences.
     <br>• <b>Archaeology \"Dirty Trowel\" Award (2024)</b>: Awarded for contribution to archaeology research through geospatial AI and GIS, given to one student annually.
-  "
+    "
 
 - name: Academic Awards
   timeline: "Recognized for involvement at the University of Florida."
@@ -23,14 +23,15 @@ accomplishments:
         • <b>John R. and Fawn T. Dunkle Geography Award (2025)</b>: Awarded for academic excellence, leadership, and active involvement in geography programs, given to one student annually.
     <br>• <b>Gulf Scholar (2025)</b>: Awarded for summer internship with nonprofit organization, trubel&co, to work on an educational GIS program for youth in Gulf communities.
     <br>• <b>College of Liberal Arts and Sciences Dean's Scholarship (2025)</b>: Awarded for academic and extracurricular excellence.
-  "
+    "
 
 - name: Grants
-  timeline: "Helped write successful grants for nonprofit programs and research projects."
+  timeline: "Helped write successful grants for educational and research projects."
   courseOverview: "
-        • <b>Broward Youth Climate Action Fund (2025)</b>: $5,000 awarded to support educational GIS program with nonprofit, trubel&co.
-    <br>• <b>Gulf Scholars Experiential Learning Funding</b>: $5,000 awarded to support Gulf-related geospatial curriculum development with nonprofit, trubel&co.
-  "
+        • <b>Co-Investigator, Earth Science Information Partners Grant (2026)</b>: $20,000 awarded to support open-source geospatial AI curriculum.
+    <br>• <b>Gulf Scholars Experiential Learning Funding (2026)</b>: $5,000 awarded to support Gulf-related geospatial curriculum development with nonprofit, trubel&co.
+    <br>• <b>Broward Youth Climate Action Fund (2025)</b>: $5,000 awarded to support educational GIS program with nonprofit, trubel&co.
+    "
 
 - name: Conference Travel Awards
   timeline: "Received support to attend and present at conferences."
@@ -38,6 +39,19 @@ accomplishments:
         • <b>Environmental Data Science Summit (2026)</b>, National Center for Ecological Analysis and Synthesis [Santa Barbara, California].
     <br>• <b>Global Environmental Justice Conference: Environmental Joy (2025)</b>, Yale Center for Environmental Justice [New Haven, Connecticut].
     <br>• <b>IEEE International Conference on Big Data (2024)</b>, Institute of Electrical and Electronics Engineers [Washington, D.C.].
+    "
+
+- name: Fellowships
+  timeline: "Awarded fellowships for professional development and research."
+  courseOverview: "
+        • <b>Early-Career Fellow</b>, Center for Developing Leadership in Science, University of California, Los Angeles (2024-Present).
+    <br>• <b>Student Climate Fellow</b>, Florida Climate Institute (2025-2026).
+  "
+
+- name: Trainings
+  timeline: "Attended trainings for science communication and research."
+  courseOverview: "
+        • <b>Young Voices of Science, Hubbard Brook Research Foundation (2025, February - May)</b>: Received training in science communication and research outreach.
   "
 
 - name: Fundamentals of Deep Learning
@@ -53,7 +67,7 @@ accomplishments:
   organization:
     name: AI4ALL
     url: https://ai-4-all.org/ai4all-ignite
-  courseOverview: "Completed course about data processing, machine learning, and deep learning in Python; collaborated with another student to apply time series models in Python to forecast global temperature changes, which we presented at AI4ALL's symposium."
+  courseOverview: "Completed course about data processing, machine learning, and deep learning in Python; collaborated with another student to apply time series models in Python to forecast global temperature changes; presented at AI4ALL's symposium."
   certificateURL: https://www.linkedin.com/in/via-zhang/details/education/1728093758248/single-media-viewer/?profileId=ACoAADuQkvIB1xDZDFMQi3x7s-IPgX39eEYG6BU
 
 - name: GIS for Climate Action
@@ -61,7 +75,7 @@ accomplishments:
   organization:
     name: Esri
     url: https://www.esri.com
-  courseOverview: "Completed 6-week training about how to apply ArcGIS to understand climate impacts and tell stories from data."
+  courseOverview: "Completed 6-week training about applying ArcGIS to understand climate impacts and tell stories from data."
   certificateURL: https://www.linkedin.com/in/via-zhang/details/certifications/1635554208482/single-media-viewer/?profileId=ACoAADuQkvIB1xDZDFMQi3x7s-IPgX39eEYG6BU
 
 - name: "Spatial Data Science: The New Frontier in Analytics"
@@ -79,14 +93,6 @@ accomplishments:
 #     <br>• <b>Title</b>: Description.
 #     <br>• <b>Title</b>: Description.
 #   "
-
-# - name: 
-#   timeline: ""
-#   organization:
-#     name: 
-#     url: 
-#   courseOverview: ""
-#   certificateURL: 
 
 # - name: 
 #   timeline: ""

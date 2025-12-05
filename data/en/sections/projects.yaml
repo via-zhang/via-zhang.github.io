@@ -24,7 +24,7 @@ projects:
   image: /images/sections/projects/emerge_lesson.png
   timeline: "June 2025 - August 2025"
   url: https://geo-di-lab.github.io/emerge-lessons
-  summary: Co-created a digital textbook that includes coding tutorials, showing how to process and analyze environmental & community science data using Python and Google Earth Engine. [Geospatial Digital Informatics Lab at the Unviersity of Florida]
+  summary: Co-created a digital textbook that includes coding tutorials, showing how to analyze environmental and crowdsourced data using Python and Google Earth Engine. [Geospatial Digital Informatics Lab at the Unviersity of Florida]
   tags: ["GIS", "Code"]
 
 - name: Land Cover Change Web App

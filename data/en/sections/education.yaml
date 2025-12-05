@@ -8,7 +8,7 @@ section:
   showOnNavbar: true
 
 degrees:
-- name: "B.Sc. in Geography and Data Science"
+- name: "B.Sc. Geography and Data Science"
   icon: fa-graduation-cap
   timeframe: "Expected: 2027"
   institution:
@@ -18,10 +18,13 @@ degrees:
     showGrades: false
     collapseAfter: 3
     courses:
-    - name: "Radar & Satellite Meteorology: graduate course using MATLAB to process radar and satellite data"
-    - name: "Geophysical Exploration of the Cryosphere: research course using Python to estimate and map the seafloor beneath ice shelves"
+    - name: "GIS for Zoonotics and Disease Ecology: Applied spatial analysis techniques for disease data"
+    - name: "Artificial Societies: Applied agent-based models to simulate disease flow, wildfire spread, erosion, and more"
+    - name: "Radar & Satellite Meteorology: Graduate course using MATLAB to process radar and satellite data"
+    - name: "Geophysical Exploration of the Cryosphere: Research course using Python to estimate and map the seafloor beneath ice shelves"
     - name: "Introduction to Quantitative Analysis for Geographers"
     - name: "Programming with Data in R"
+    - name: "Linear Algebra for Data Science"
     - name: "Computational Linear Algebra"
   extracurricularActivities:
   - Minor in GeoAI and Geographic Analysis.

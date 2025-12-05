@@ -45,9 +45,9 @@ skills:
   summary: "Experienced cleaning data with tidyverse, working with spatial data, training random forest regression models with tidymodels, and creating visualizations with R in RStudio."
   categories: ["programming"]
 
-- name: MATLAB
+- name: SQL
   logo: images/sections/skills/icon_code.svg
-  summary: "Working knowledge of processing data and creating scientific figures in MATLAB."
+  summary: "Experienced with managing and updating databases with PostgreSQL."
   categories: ["programming"]
 
 - name: Git/GitHub
@@ -78,5 +78,5 @@ skills:
 
 - name: JavaScript
   logo: images/sections/skills/icon_code.svg
-  summary: "Experienced building web apps and dashboards with JavaScript (React, Leaflet)."
+  summary: "Experienced building web apps and dashboards with JavaScript (React, Node, Leaflet, TypeScript)."
   categories: ["programming"]

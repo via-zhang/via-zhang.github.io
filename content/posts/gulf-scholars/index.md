@@ -7,7 +7,7 @@ menu:
     name: Gulf Scholars Conference
     identifier: gulf-scholars
     weight: 9
-tags: ["Reflection"]
+tags: ["Reflection", "GIS"]
 mermaid: true
 ---
 

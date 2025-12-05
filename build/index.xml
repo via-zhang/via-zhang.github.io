@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olivia Zhang</title>
+    <link>https://via-zhang.github.io/</link>
+    <description>Recent content on Olivia Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0600</lastBuildDate><atom:link href="https://via-zhang.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>GIS for Disaster Response</title>
+      <link>https://via-zhang.github.io/posts/team-rubicon/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/team-rubicon/</guid>
+      <description>&lt;p&gt;Living with South Florida, I have seen the impacts of hurricanes and other disasters on our communities. As a geography and data science student, much of my work and research involves geographic information systems (GIS), which allow us to visualize data on maps and analyze spatial patterns.&lt;/p&gt;
+&lt;p&gt;In 2025, I started volunteering with Team Rubicon, a national nonprofit organization that organizes international disaster response efforts to disasters like hurricanes, wildfires, and floods. On their GIS team, I provide GIS support to a range of projects, from creating interactive dashboards for use in planning disaster response to labeling floodded roads and fallen trees in high-resolution satellite imagery taken in the aftermath of a disaster.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reflecting on a Summer of Mapping for Impact</title>
+      <link>https://via-zhang.github.io/posts/trubel-summer/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/trubel-summer/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Mapping Justice: Gulf Coast&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This summer, I supported &lt;a href=&#34;https://www.trubel.co/m-j&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping Justice&lt;/a&gt;, our 8-week summer program for high school students, where they learn about geographic information systems (GIS), environmental challenges along the Gulf Coast, and how they can design tools for impact. From helping with parts of the curriculum to editing recordings, I learned so much about all the behind-the-scenes work that ensures the program runs smoothly.&lt;/p&gt;
+&lt;p&gt;I am inspired by the students’ incredible work throughout the course of the program. You can view their &lt;a href=&#34;https://storymaps.arcgis.com/collections/2778e7dcdf294a378561f4b5a1dca8dd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;projects here&lt;/a&gt;, exploring environmental issues along the Gulf region. Helping with this program reminded me of my first time learning about GIS in high school, and how I found it so fascinating how we can use GIS to uncover spatial patterns and tell stories with data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reflecting on the Gulf Scholars Conference in Mobile, Alabama</title>
+      <link>https://via-zhang.github.io/posts/gulf-scholars/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/gulf-scholars/</guid>
+      <description>&lt;p&gt;I have been working with trubel&amp;amp;co since December 2023 and have loved every moment of it, from helping with EcoGIS workshops to Mapping Justice. Having been born in New Orleans and raised in South Florida, the Gulf is a region especially close to my heart. When I learned that trubel&amp;amp;co is expanding the Florida Mapping Justice program to all Gulf Coast states, I was very excited to be able to help.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Geospatial Data Workshop at the Student Sustainability Summit</title>
+      <link>https://via-zhang.github.io/posts/s3-summit/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/s3-summit/</guid>
+      <description>&lt;p&gt;Combining my passions for climate action, data science, and geography, I had the incredible opportunity to present at the 2025 &lt;a href=&#34;https://www.studentsustainabilitysummit.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Sustainability Summit&lt;/a&gt;. Along with two other University of Florida students, I led a workshop introducing how to analyze spatial data about wildfires in California as part of our presentation about the intersection of data science and sustainability.&lt;/p&gt;
+&lt;h2 id=&#34;data-science-for-sustainable-development&#34;&gt;Data Science for Sustainable Development&lt;/h2&gt;
+&lt;p&gt;In August 2024, I co-founded &lt;a href=&#34;https://gainesville.dssdglobal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Science for Sustainable Development (DSSD)&lt;/a&gt; at the University of Florida as a chapter of the &lt;a href=&#34;https://dssdglobal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nonprofit DSSD&lt;/a&gt;. DSSD’s mission is to apply &lt;b&gt;technology for positive impact&lt;/b&gt; in support of the Sustainable Development Goals. We provide technical services to nonprofits, startups, and researchers for web development, data analysis, and other projects&amp;mdash;all led by innovative teams of students passionate about data, computer science, and sustainability. At the Student Sustainability Summit, we presented about our ongoing projects and led an interactive coding workshop about analyzing fires in California.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vibrance of Miami, a Data Storytelling Project</title>
+      <link>https://via-zhang.github.io/posts/miami-vibrance/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/miami-vibrance/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Vibrance of Miami&lt;/code&gt; takes a look at the diversity and resilience of Miami from space, using publicly-available data. Miami has grown so much over the years, and we can visualize this through how the lights of Miami, captured by satellites at night, have become brighter. Miami has so much diversity and color everywhere you look, and I hope that this artwork can reflect that vibrant joy.
+&lt;img src=&#34;Vibrance_of_Miami.gif&#34; alt=&#34;A digital self portrait, overlaid with a series of white lines and a timelapse of nighttime lights over Miami.&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Detecting Shell Mounds in LiDAR Images</title>
+      <link>https://via-zhang.github.io/posts/shell-mounds/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/shell-mounds/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Shell mounds, or shell middens, are hills of accumulated shell (clams, oysters, and whelks), mud bricks, pottery shards, and other objects built up by generations of Indigenous peoples (Orengo et al., 2020; Florida Natural Areas Inventory, 2010). Shell mounds, found along the coastlines of the southeastern United States (Florida Natural Areas Inventory, 2010), give us a look at the past, helping us understand the lives of communities from hundreds to thousands of years ago. As such, they are a crucial part of our cultural landscape—imprinted evidence of history and heritage on the natural landscape (Taylor &amp;amp; Lennon, 2011).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Community Engagement &amp; Civic Technology</title>
+      <link>https://via-zhang.github.io/posts/bcls-fellow/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/bcls-fellow/</guid>
+      <description>&lt;p&gt;In my first year at the University of Florida (UF), I participated in the Path to Purpose Fellowship with UF&amp;rsquo;s Brown Center for Leadership &amp;amp; Service. The fellowship is centered on local, impactful, collaborative action for social change. Throughout the year, I learned about conscious community engagement, ensuring that we co-create solutions with the community here in Gainesville, Florida. We embraced opportunities to be involved with vibrant and inspiring social change initiatives.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>Environment</title>
+      <link>https://via-zhang.github.io/notes/environment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://via-zhang.github.io/notes/environment/</guid>
+      <description>&lt;!-- Florida Rivers --&gt;
+&lt;div class=&#34;note-card &#34;&gt;
+    &lt;div class=&#34;item&#34;&gt;
+        &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Florida Rivers&lt;/span&gt;&lt;/h5&gt;
+        
+            &lt;div class=&#34;card&#34;&gt;
+                &lt;div class=&#34;card-body&#34;&gt;&lt;p&gt;Maps of river Relative Elevation Model (REM) for three rivers in Florida, processed using Python &lt;a href=&#34;https://github.com/OpenTopography/RiverREM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RiverREM&lt;/a&gt; package with data from &lt;a href=&#34;https://coast.noaa.gov/slrdata/DEMs/FL/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NOAA&lt;/a&gt; and visualized using ArcGIS Pro.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://via-zhang.github.io/notes/environment/fl_rem_cartographic.png&#34; alt=&#34;Three maps of rivers&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+            &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Team Rubicon --&gt;
+&lt;div class=&#34;note-card &#34;&gt;
+    &lt;div class=&#34;item&#34;&gt;
+        &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Typhoon Halong&lt;/span&gt;&lt;/h5&gt;
+        
+            &lt;div class=&#34;card&#34;&gt;
+                &lt;div class=&#34;card-body&#34;&gt;&lt;p&gt;With Team Rubicon, I created this dashboard showing cell coverage in Alaska, as part of a larger &lt;a href=&#34;https://geo-teamrubiconusa.hub.arcgis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArcGIS Hub site&lt;/a&gt;, to support planning and field coordination during the response to Typhoon Halong in Alaska.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Demographic</title>
+      <link>https://via-zhang.github.io/notes/demographic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://via-zhang.github.io/notes/demographic/</guid>
+      <description>&lt;!-- Dashboard --&gt;
+&lt;div class=&#34;note-card &#34;&gt;
+    &lt;div class=&#34;item&#34;&gt;
+        &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Air Pollution&lt;/span&gt;&lt;/h5&gt;
+        
+            &lt;div class=&#34;card&#34;&gt;
+                &lt;div class=&#34;card-body&#34;&gt;&lt;p&gt;This &lt;a href=&#34;https://experience.arcgis.com/experience/72947b3722b0478fa3dc69648c4a7eee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dashboard&lt;/a&gt; visualizes &lt;a href=&#34;https://www.countyhealthrankings.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;county-level particulate matter data&lt;/a&gt; across the U.S., made in collaboration with another student.&lt;/p&gt;
+&lt;img src=&#34;https://via-zhang.github.io/notes/demographic/dashboard_air_pollution.png&#34; alt=&#34;Dashboard of air pollution across the US.&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

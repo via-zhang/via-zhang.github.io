@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS on Olivia Zhang</title>
+    <link>https://via-zhang.github.io/tags/gis/</link>
+    <description>Recent content in GIS on Olivia Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0600</lastBuildDate><atom:link href="https://via-zhang.github.io/tags/gis/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>GIS for Disaster Response</title>
+      <link>https://via-zhang.github.io/posts/team-rubicon/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0600</pubDate>
+      
+      <guid>https://via-zhang.github.io/posts/team-rubicon/</guid>
+      <description>&lt;p&gt;Living with South Florida, I have seen the impacts of hurricanes and other disasters on our communities. As a geography and data science student, much of my work and research involves geographic information systems (GIS), which allow us to visualize data on maps and analyze spatial patterns.&lt;/p&gt;
+&lt;p&gt;In 2025, I started volunteering with Team Rubicon, a national nonprofit organization that organizes international disaster response efforts to disasters like hurricanes, wildfires, and floods. On their GIS team, I provide GIS support to a range of projects, from creating interactive dashboards for use in planning disaster response to labeling floodded roads and fallen trees in high-resolution satellite imagery taken in the aftermath of a disaster.&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>
