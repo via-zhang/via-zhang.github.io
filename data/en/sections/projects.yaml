@@ -12,20 +12,36 @@ buttons:
   filter: "all"
 - name: GIS
   filter: "GIS"
-- name: Code
-  filter: "Code"
+- name: AI/ML
+  filter: "AI"
 - name: Writing
   filter: "Writing"
 
 # all projects
 projects:
+# - name: 
+#   role: 
+#   image: /images/sections/projects/
+#   timeline: 
+#   url: 
+#   summary: 
+#   tags: 
+
+- name: Mapping Tree Mortality with AI
+  role: Google Earth Engine, R
+  image: /images/sections/projects/project_tree_classify.jpg
+  timeline: "November - December 2025"
+  url: https://via-zhang.github.io/posts/tree-ai
+  summary: Compared 3 machine learning methods to map tree mortality using NEON field survey data and Google's Satellite Embeddings.
+  tags: ["GIS", "AI"]
+
 - name: Community Science Data Analysis Tutorials
   role: Python, Google Earth Engine, GitHub
   image: /images/sections/projects/emerge_lesson.png
   timeline: "June 2025 - August 2025"
   url: https://geo-di-lab.github.io/emerge-lessons
   summary: Co-created a digital textbook that includes coding tutorials, showing how to analyze environmental and crowdsourced data using Python and Google Earth Engine. [Geospatial Digital Informatics Lab at the Unviersity of Florida]
-  tags: ["GIS", "Code"]
+  tags: ["GIS", "AI"]
 
 - name: Land Cover Change Web App
   role: Google Earth Engine
@@ -33,13 +49,13 @@ projects:
   timeline: September 2025
   url: https://via-zhang.users.earthengine.app/view/land-cover
   summary: Interactive web app created using JavaScript (Google Earth Engine) visualizing land cover change over 20 years.
-  tags: ["Code"]
+  tags: ["GIS"]
 
 - name: Map Gallery
   image: /images/sections/projects/fl_rem_cartographic.png
   url: https://via-zhang.github.io/notes
   summary: A gallery of various maps I have made.
-  tags: ["GIS", "Code"]
+  tags: ["GIS"]
 
 - name: Community Science for Mosquito Mapping Dashboard
   role: ArcGIS Online, Data from API
@@ -63,7 +79,7 @@ projects:
   timeline: "January 2024 - November 2024"
   url: https://github.com/via-zhang/portfolio/blob/main/presentations/aaa_2024_shell_mounds.pdf
   summary: I worked on a research project to detect archaeological shell mound sites using open-source object detection models and presented our results at the 2024 American Anthropological Association Annual Meeting. [AI for Bio/Cultural Diversity Lab at the Florida Museum of Natural History]
-  tags: ["Research", "GIS", "Code"]
+  tags: ["Research", "GIS", "AI"]
 
 - name: Sea Level Rise in Miami
   role: ArcGIS Online
@@ -87,7 +103,7 @@ projects:
   timeline: "June 2024 - August 2024"
   url: https://github.com/via-zhang/portfolio/blob/main/posters/MAI_Lab_2024_Radar_QPE_SR.png
   summary: With a team of undergraduate students at this Research Experience for Undergraduates (REU) program at the University of Maryland, Baltimore County, we researched methods to apply symbolic regression, a type of machine learning, to estimate rainfall rate from radar data. We presented our poster at the 2024 American Geophysical Union Annual Meeting and our paper at the 2024 IEEE International Conference on Big Data. 
-  tags: ["Research"]
+  tags: ["Research", "AI"]
 
 - name: Estimating Bathymetry Below Ice Shelves
   role: Python, GitHub
@@ -120,19 +136,3 @@ projects:
   url: https://www.arcgis.com/apps/dashboards/ec0dd16d4ea9421a87bef3cd2a9b448a
   summary: This dashboard explores the Expected Annual Loss across the US from various natural hazards, with data from the FEMA National Risk Index by State (zoomed out) and Census Tract (zoomed in).
   tags: ["GIS"]
-
-# - name: 
-#   role: 
-#   image: /images/sections/projects/
-#   timeline: 
-#   url: 
-#   summary: 
-#   tags: 
-
-# - name: 
-#   role: 
-#   image: /images/sections/projects/
-#   timeline: 
-#   url: 
-#   summary: 
-#   tags: 

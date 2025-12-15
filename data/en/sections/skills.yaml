@@ -55,6 +55,11 @@ skills:
   summary: "Experienced with collaborative coding and version control in GitHub."
   categories: ["programming"]
 
+- name: High-Performance Computing
+  logo: images/sections/skills/icon_code.svg
+  summary: "Experienced running code in multi-node GPU environments on high-performance computing clusters."
+  categories: ["programming"]
+
 - name: LaTeX
   logo: images/sections/skills/icon_pen.svg
   summary: "Experienced writing academic papers in LaTeX using Overleaf."
@@ -80,3 +85,13 @@ skills:
   logo: images/sections/skills/icon_code.svg
   summary: "Experienced building web apps and dashboards with JavaScript (React, Node, Leaflet, TypeScript)."
   categories: ["programming"]
+
+- name: Google Cloud
+  logo: images/sections/skills/icon_code.svg
+  summary: "Experienced running cloud workflows with Google Cloud."
+  categories: ["programming"]
+
+# - name: 
+#   logo: images/sections/skills/icon_code.svg
+#   summary: ""
+#   categories: ["programming"]
