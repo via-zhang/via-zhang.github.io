@@ -36,7 +36,7 @@ With Team Rubicon, I created maps for this published [story map](https://arcg.is
 
 <!-- Dashboard -->
 {{< note title="Fires">}}
-This [dashboard](https://experience.arcgis.com/experience/b66cb0a7b68f4e3cab71fcaa58744a31) visualizes shows [data](https://www.arcgis.com/home/item.html?id=405814902c9e411cb4384c49d694e82b) about wildfire incidents from the Wildland Fire Interagency Geospatial Services (WFIGS) Group.
+This [dashboard](https://experience.arcgis.com/experience/b66cb0a7b68f4e3cab71fcaa58744a31) visualizes [data](https://www.arcgis.com/home/item.html?id=405814902c9e411cb4384c49d694e82b) about wildfire incidents from the Wildland Fire Interagency Geospatial Services (WFIGS) Group.
 
 <img src="/notes/environment/dashboard_fires.png" alt="Dashboard of fires across the US.">
 

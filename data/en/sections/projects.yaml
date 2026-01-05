@@ -27,6 +27,14 @@ projects:
 #   summary: 
 #   tags: 
 
+- name: Mapping Hurricane Impacts with AI
+  role: ArcGIS Pro, Python
+  image: /images/sections/projects/story_hurricane_katrina.png
+  timeline: "January 2026"
+  url: https://arcg.is/1v8X9r2
+  summary: An analysis of the environmental damage caused by Hurricanes Melissa (2025), Maria (2017), and Katrina (2005) with geospatial AI.
+  tags: ["GIS", "AI"]
+
 - name: Mapping Tree Mortality with AI
   role: Google Earth Engine, R
   image: /images/sections/projects/project_tree_classify.jpg
