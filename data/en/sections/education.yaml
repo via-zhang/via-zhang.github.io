@@ -19,10 +19,11 @@ degrees:
     collapseAfter: 3
     courses:
     - name: "Digital Image Processing: Applied Google Earth Engine to process Earth observation data"
-    - name: "GIS for Zoonotics and Disease Ecology: Applied spatial analysis techniques to analyze diseases"
     - name: "Artificial Societies: Applied agent-based models to simulate disease flow, wildfire spread, erosion, and more"
+    - name: "GIS for Zoonotics and Disease Ecology: Applied spatial analysis techniques to analyze patterns of diseases"
+    - name: "Introduction to Medical Geography: Graduate course using ArcGIS to map diseases"
     - name: "Radar & Satellite Meteorology: Graduate course using MATLAB to process radar and satellite data"
-    - name: "Geophysical Exploration of the Cryosphere: Research course using Python to estimate and map the seafloor beneath ice shelves"
+    - name: "Geophysical Exploration of the Cryosphere: Research course using Python to estimate and map the seafloor beneath ice shelves with Markov chain Monte Carlo gravity inversions"
     - name: "Introduction to Quantitative Analysis for Geographers"
     - name: "Programming with Data in R"
     - name: "Linear Algebra for Data Science"

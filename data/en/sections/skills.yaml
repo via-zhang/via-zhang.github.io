@@ -47,7 +47,7 @@ skills:
 
 - name: SQL
   logo: images/sections/skills/icon_code.svg
-  summary: "Experienced with managing and updating databases with PostgreSQL."
+  summary: "Experienced with managing and updating large geospatial databases with PostgreSQL."
   categories: ["programming"]
 
 - name: Git/GitHub
@@ -89,6 +89,11 @@ skills:
 - name: Google Cloud
   logo: images/sections/skills/icon_code.svg
   summary: "Experienced running cloud workflows with Google Cloud."
+  categories: ["programming"]
+
+- name: Grant Writing
+  logo: images/sections/skills/icon_pen.svg
+  summary: "Led successful grant applications for education and research projets."
   categories: ["programming"]
 
 # - name: 

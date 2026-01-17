@@ -20,6 +20,23 @@ buttons:
 # experiences
 publications:
 
+- title: GIS Analyst
+  publishedIn:
+    name: Fire Neural Network
+    date: May 2022 - March 2023 (Intern), March 2023 - Present (Analyst)
+    url: https://fireneuralnetwork.com
+  paper:
+    summary: "
+      <i>Fire Neural Network gives firefighters timely alerts about lightning strikes likely to cause wildfires - through a combination of AI, lightning detection, and geographic information systems (GIS).</i>
+      <br>• Built interactive dashboards with lightning and fire data in ArcGIS Online, used by stakeholders to identify dangerous lightning likely to ignite wildfires.
+      <br>• Created videos and user guides demonstrating each dashboard's features.
+      <br>• Developed workflow to load satellite imagery and segment burned areas from wildfires, speeding up processing times.
+      <br>• Analyzed 500+ satellite images to locate burned areas from lightning-caused wildfires, shared with stakeholders via dashboards.
+      "
+    url: https://fireneuralnetwork.com
+  categories: ["gis", "coding"]
+  tags: ["ArcGIS Suite", "Writing", "Video Editing", "Python", "Git/GitHub"]
+
 - title: Geospatial Intern
   publishedIn:
     name: SkyTruth
@@ -35,22 +52,6 @@ publications:
     url: https://skytruth.org
   categories: ["gis", "coding"]
   tags: ["Python", "QGIS", "Google Cloud", "Docker", "SQL", "Git/GitHub"]
-
-- title: Undergraduate Research Assistant
-  publishedIn:
-    name: Geospatial Digital Informatics (GeoDI) Lab
-    date: October 2024 - Present
-    url: https://geodi.geog.ufl.edu
-  paper:
-    summary: "
-      <i>Research lab (led by Dr. Di Yang) studying human-environment interactions with remote sensing, geospatial AI, and citizen science.</i>
-      <br>• Created tutorials explaining how to analyze citizen science data with Python and Google Earth Engine, designed to raise awareness and encourage more participation in open-source data collection for NASA GLOBE.
-      <br>• Leading project to predict tree mortality using machine learning and computer vision based on satellite embeddings and field survey data.
-      <br>• Managing GitHub organization, project website, and lab website.
-      "
-    url: https://geodi.geog.ufl.edu
-  categories: ["gis", "research"]
-  tags: ["Research", "Python", "Google Earth Engine", "High-Performance Computing", "Grant Writing"]
 
 - title: Geospatial Data Intern
   publishedIn:
@@ -69,22 +70,21 @@ publications:
   categories: ["gis"]
   tags: ["ArcGIS Suite", "TypeScript", "Git/GitHub", "SQL", "Canva", "Grant Writing"]
 
-- title: Geographic Information Systems (GIS) Analyst
+- title: Undergraduate Research Assistant
   publishedIn:
-    name: Fire Neural Network
-    date: May 2022 - March 2023 (Intern), March 2023 - Present (Analyst)
-    url: https://fireneuralnetwork.com
+    name: Geospatial Digital Informatics (GeoDI) Lab
+    date: October 2024 - Present
+    url: https://geodi.geog.ufl.edu
   paper:
     summary: "
-      <i>Fire Neural Network gives firefighters timely alerts about lightning strikes likely to cause wildfires - through a combination of AI, drones, and GIS mapping.</i>
-      <br>• Built interactive dashboards with lightning and fire data in ArcGIS Online, used by stakeholders to identify dangerous lightning likely to ignite wildfires.
-      <br>• Created videos demonstrating each dashboard's features.
-      <br>• Developed workflow to load satellite imagery and segment burned areas from wildfires.
-      <br>• Analyzed 500+ satellite images to locate burned areas from lightning-caused wildfires, helping train machine learning model.
+      <i>Research lab (led by Dr. Di Yang) studying human-environment interactions with remote sensing, geospatial AI, and citizen science.</i>
+      <br>• Created tutorials explaining how to analyze citizen science data with Python and Google Earth Engine, designed to raise awareness and encourage more participation in open-source data collection for NASA GLOBE.
+      <br>• Leading project to predict tree mortality using machine learning and computer vision based on satellite embeddings and field survey data.
+      <br>• Managing GitHub organization, project website, and lab website.
       "
-    url: https://fireneuralnetwork.com
-  categories: ["gis", "coding"]
-  tags: ["ArcGIS Suite", "Writing", "Video Editing", "Python", "Git/GitHub"]
+    url: https://geodi.geog.ufl.edu
+  categories: ["gis", "research"]
+  tags: ["Research", "Python", "Google Earth Engine", "High-Performance Computing", "Grant Writing"]
 
 - title: Informatics Intern
   publishedIn:

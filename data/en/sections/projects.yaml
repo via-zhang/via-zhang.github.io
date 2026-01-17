@@ -27,7 +27,7 @@ projects:
 #   summary: 
 #   tags: 
 
-- name: Mapping Hurricane Impacts with AI
+- name: Mapping Hurricane Impacts with GeoAI
   role: ArcGIS Pro, Python
   image: /images/sections/projects/story_hurricane_katrina.png
   timeline: "January 2026"
@@ -35,13 +35,11 @@ projects:
   summary: An analysis of the environmental damage caused by Hurricanes Melissa (2025), Maria (2017), and Katrina (2005) with geospatial AI.
   tags: ["GIS", "AI"]
 
-- name: Mapping Tree Mortality with AI
-  role: Google Earth Engine, R
-  image: /images/sections/projects/project_tree_classify.jpg
-  timeline: "November - December 2025"
-  url: https://via-zhang.github.io/posts/tree-ai
-  summary: Compared 3 machine learning methods to map tree mortality using NEON field survey data and Google's Satellite Embeddings.
-  tags: ["GIS", "AI"]
+- name: Map Gallery
+  image: /images/sections/projects/fl_rem_cartographic.png
+  url: https://via-zhang.github.io/notes
+  summary: A gallery of various maps I have made, from the depth of rivers to the spread of wildfires.
+  tags: ["GIS"]
 
 - name: Community Science Data Analysis Tutorials
   role: Python, Google Earth Engine, GitHub
@@ -51,18 +49,20 @@ projects:
   summary: Co-created a digital textbook that includes coding tutorials, showing how to analyze environmental and crowdsourced data using Python and Google Earth Engine. [Geospatial Digital Informatics Lab at the Unviersity of Florida]
   tags: ["GIS", "AI"]
 
+- name: Mapping Tree Mortality with Satellite Embeddings & Field Surveys
+  role: Google Earth Engine, R
+  image: /images/sections/projects/project_tree_classify.jpg
+  timeline: "November - December 2025"
+  url: https://via-zhang.github.io/posts/tree-ai
+  summary: Compared 3 machine learning methods to map tree mortality using NEON field survey data and Google's Satellite Embeddings.
+  tags: ["GIS", "AI"]
+
 - name: Land Cover Change Web App
   role: Google Earth Engine
   image: /images/sections/projects/land_cover.png
   timeline: September 2025
   url: https://via-zhang.users.earthengine.app/view/land-cover
   summary: Interactive web app created using JavaScript (Google Earth Engine) visualizing land cover change over 20 years.
-  tags: ["GIS"]
-
-- name: Map Gallery
-  image: /images/sections/projects/fl_rem_cartographic.png
-  url: https://via-zhang.github.io/notes
-  summary: A gallery of various maps I have made.
   tags: ["GIS"]
 
 - name: Community Science for Mosquito Mapping Dashboard
@@ -86,7 +86,7 @@ projects:
   image: /images/sections/projects/pres_shell_mounds.png
   timeline: "January 2024 - November 2024"
   url: https://github.com/via-zhang/portfolio/blob/main/presentations/aaa_2024_shell_mounds.pdf
-  summary: I worked on a research project to detect archaeological shell mound sites using open-source object detection models and presented our results at the 2024 American Anthropological Association Annual Meeting. [AI for Bio/Cultural Diversity Lab at the Florida Museum of Natural History]
+  summary: I worked on a research project to detect archaeological shell mound sites using open-source object detection models and presented our results at the 2024 American Anthropological Association Annual Meeting. [AI for Human Ecology Lab at the Florida Museum of Natural History]
   tags: ["Research", "GIS", "AI"]
 
 - name: Sea Level Rise in Miami
