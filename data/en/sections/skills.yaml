@@ -42,13 +42,13 @@ skills:
 
 - name: R/RStudio
   logo: images/sections/skills/icon_code.svg
-  summary: "Experienced cleaning data with tidyverse, working with spatial data, training random forest regression models with tidymodels, and creating visualizations with R in RStudio."
+  summary: "Experienced cleaning data, analyzing spatial data, training machine learning models, and creating visualizations with R in RStudio."
   categories: ["programming"]
 
 - name: SQL
   logo: images/sections/skills/icon_code.svg
   summary: "Experienced with managing and updating large geospatial databases with PostgreSQL."
-  categories: ["programming"]
+  categories: ["gis", "programming"]
 
 - name: Git/GitHub
   logo: images/sections/skills/icon_code.svg
@@ -67,13 +67,13 @@ skills:
 
 - name: Writing
   logo: images/sections/skills/icon_pen.svg
-  summary: "Passionate about storytelling and conveying data to a wide audience."
+  summary: "Passionate about storytelling, science communication, and conveying data to a wide audience."
   url: posts
   categories: ["content"]
 
 - name: Canva
   logo: images/sections/skills/icon_pen.svg
-  summary: "Experienced using Canva to create flyers, posters, and videos."
+  summary: "Experienced using Canva to create flyers, social media posts, and videos."
   categories: ["content"]
 
 - name: Digital Art
@@ -81,9 +81,9 @@ skills:
   summary: "Experienced creating digital artworks and videos."
   categories: ["content"]
 
-- name: JavaScript
+- name: Web Development
   logo: images/sections/skills/icon_code.svg
-  summary: "Experienced building web apps and dashboards with JavaScript (React, Node, Leaflet, TypeScript)."
+  summary: "Experienced building web apps and dashboards with JavaScript (React, Node, Leaflet, TypeScript), HTML, and CSS."
   categories: ["programming"]
 
 - name: Google Cloud
@@ -94,6 +94,21 @@ skills:
 - name: Grant Writing
   logo: images/sections/skills/icon_pen.svg
   summary: "Led successful grant applications for education and research projets."
+  categories: ["content"]
+
+- name: Adobe
+  logo: images/sections/skills/icon_pen.svg
+  summary: "Experienced with design in Adobe Photoshop, InDesign, and Illustrator."
+  categories: ["content"]
+
+- name: SPSS
+  logo: images/sections/skills/icon_code.svg
+  summary: "Experienced with statistical analysis with social science data using SPSS."
+  categories: ["programming"]
+
+- name: MATLAB
+  logo: images/sections/skills/icon_code.svg
+  summary: "Experienced with processing and visualizing data in MATLAB."
   categories: ["programming"]
 
 # - name: 

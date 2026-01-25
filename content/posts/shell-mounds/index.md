@@ -1,7 +1,7 @@
 ---
-title: "Detecting Shell Mounds in LiDAR Images"
+title: "Mapping Florida's Coastal Archaeological History"
 date: 2024-04-15T00:00:00+06:00
-description: Reflecting on my semester conducting research at the AI for Bio/Cultural Diversity Lab.
+description: Reflecting on my semester conducting research at the AI for Human Ecology Lab.
 hero: figure8.png
 menu:
   sidebar:
@@ -17,7 +17,7 @@ Shell mounds, or shell middens, are hills of accumulated shell (clams, oysters, 
 
 Shell mounds can be small or large—some acting as foundations on which new structures are built—with complex structures and ridges. The region studied through our research, the southwest coast of Florida, is the ancestral territory of the Calusa. The Calusa built complex shell mounds, middens, canals, and other earthworks (Charlotte County Historic Preservation Element, 2007), leaving a significant archeological imprint on the landscape. The accumulation of shell mounds provides archaeologists with crucial knowledge about past communities, from what types of food they ate to how large their communities were. Some sites, such as the shell midden on Josslyn Island, can protect from storm surges (Patterson, 2017, p. 34). However, many shell mounds have been destroyed or otherwise altered. For example, the Wightman Site on Sanibel Island was once a large shell midden, but has since been destroyed to make room for a housing development (Patterson, 2017, p. 48). This poses a significant question: How can we leverage emerging technologies to help preserve the shell mounds of Florida’s coast?
 
-At the AI for Bio/Cultural Diversity Lab at the Florida Museum of Natural History, we aimed to answer this question by conducting AI-driven research about these significant archaeological sites. During the spring 2024 term, we tested different machine learning models to detect shell mounds in aerial images. With LiDAR elevation data and multi-scale topographic images of shell mounds across the west coast of Florida, we fine-tuned the following pre-existing models to detect shell mounds within images: Mask-RCNN, Grounding DINO, and YOLOv8.
+At the AI for Human Ecology Lab at the Florida Museum of Natural History, we aimed to answer this question by conducting AI-driven research about these significant archaeological sites. During the spring 2024 term, we tested different machine learning models to detect shell mounds in aerial images. With LiDAR elevation data and multi-scale topographic images of shell mounds across the west coast of Florida, we fine-tuned the following pre-existing models to detect shell mounds within images: Mask-RCNN, Grounding DINO, and YOLOv8.
 
 Future work for the project involves 1) improving the performance of the object detection model with more training data and 2) using LiDAR and other remotely sensed data to expand our understanding of landscapes that have since been destroyed or sunken underwater.
 
@@ -25,6 +25,9 @@ Future work for the project involves 1) improving the performance of the object 
 The University of Florida’s main campus is located on the ancestral territory of the Potano and of the Seminole peoples. The area of southwest Florida encompassed in our research is the ancestral territory of the Calusa. We acknowledge the long-lasting and devastating impact of colonization, and we honor and respect the Indigenous peoples who have, for thousands of years, lived and continue to live here.
 
 ## Current Results
+The presentation below summarizes our results, presented at the 2024 American Anthropological Association Annual Meeting.
+{{< embed-pdf src="aaa_2024_shell_mounds.pdf" >}}
+
 We began by analyzing what types of data can distinguish shell mounds from the surrounding landscape—starting with satellite images from Sentinel-2. Sentinel-2 images have twelve spectral bands, and different combinations of these bands indicate various qualities about the vegetation, soil, and more. For example, the Normalized Difference Vegetation Index (NDVI) is calculated with the near infrared and red bands as (NIR - R) / (NIR + R), which helps us visualize healthy or unhealthy vegetation. Using the [rsi package in R](https://CRAN.R-project.org/package=rsi), we retrieved Sentinel-2 images around prominent shell mound locations like Mound Key and Otter Mound, and we viewed [over 150 spectral indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices/blob/main/output/spectral-indices-table.csv). For the following vegetation indices, the shell mounds were especially prominent: Near-Infrared Reflectance of Vegetation (NIRv), Normalized Difference Vegetation Index (NDVI), Modified Chlorophyll Absorption in Reflectance Index (MCARI705), Red-Edge Disease Stress Index (REDSI), and Triangular Vegetation Index (TriVI).
 
 {{<img src="figure1.png" align="center" alt="Examples of vegetation indices at shell mound locations." width="50%">}}
