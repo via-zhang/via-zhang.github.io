@@ -49,6 +49,14 @@ projects:
   summary: Co-created a digital textbook that includes coding tutorials, showing how to analyze environmental and crowdsourced data using Python and Google Earth Engine. [Geospatial Digital Informatics Lab at the Unviersity of Florida]
   tags: ["GIS", "AI"]
 
+- name: Climate Advocates Resource Database
+  role: R Shiny, GitHub
+  image: /images/sections/projects/database_card.png
+  timeline: "January 2026"
+  url: https://via-zhang.shinyapps.io/climate-resources
+  summary: As part of a team at the Environmental Data Science Summit hosted by the National Center for Ecological Analysis and Synthesis, we created an R Shiny app that updates live with climate papers submitted by researchers.
+  tags: ["Writing"]
+
 - name: Over the Years, Storytelling with Data
   role: ArcGIS Pro, Python (ArcPy)
   image: /images/sections/projects/art_over_the_years.png

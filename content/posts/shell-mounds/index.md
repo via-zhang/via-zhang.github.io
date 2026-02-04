@@ -2,7 +2,7 @@
 title: "Mapping Florida's Coastal Archaeological History"
 date: 2024-04-15T00:00:00+06:00
 description: Reflecting on my semester conducting research at the AI for Human Ecology Lab.
-hero: figure8.png
+hero: pres_shell_mounds.png
 menu:
   sidebar:
     name: Detecting Shell Mounds
