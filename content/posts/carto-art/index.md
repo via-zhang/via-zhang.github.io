@@ -1,6 +1,6 @@
 ---
 title: "Combining Cartography and Art"
-date: 2025-08-14T00:00:00+06:00
+date: 2025-12-04T00:00:00+06:00
 description: I am passionate about the mix of cartography and art to 
 hero: coalescence_2.jpg
 menu:

@@ -32,7 +32,7 @@ projects:
   image: /images/sections/projects/story_hurricane_katrina.png
   timeline: "January 2026"
   url: https://arcg.is/1v8X9r2
-  summary: An analysis of the environmental damage caused by Hurricanes Melissa (2025), Maria (2017), and Katrina (2005) with geospatial AI.
+  summary: An analysis of the environmental damage caused by Hurricanes Melissa (2025), Maria (2017), and Katrina (2005) with geospatial AI. Won 2nd place in the 2025 Esri and ASPRS Annual GeoChallenge.
   tags: ["GIS", "AI"]
 
 - name: Map Gallery
@@ -64,6 +64,14 @@ projects:
   url: https://via-zhang.github.io/climate-storytelling
   summary: Featuring a timelapse of projected flooding from sea level rise up to 10 feet in South Florida, a graph of sea levels (1994-2023) off the coast of Southeast Florida, and a personal portrait, this artwork explores data visualization as an avenue for climate storytelling. "Over the Years" was on display in Queens, New York at the Queens Council on the Arts in partnership with Ofrenda Fest from September to December 2024.
   tags: ["GIS", "Art"]
+
+- name: jigSAT, Satellite Imagery Puzzle Game
+  role: TypeScript, React, Leaflet
+  image: /images/sections/projects/proj_jigsat.png
+  timeline: "January 2026"
+  url: https://via-zhang.github.io/jigsat-puzzle/
+  summary: A game that allows users to explore satellite imagery by solving jigsaw puzzles.
+  tags: ["GIS"]
 
 - name: Community Science for Mosquito Mapping Dashboard
   role: ArcGIS Online, Data from API
@@ -105,6 +113,14 @@ projects:
   summary: I created this Story Map about sea level rise in Miami. [Florida Community Innovation]
   tags: ["GIS", "Writing"]
 
+- name: Processing Sythentic Aperture Radar (SAR) Data
+  role: Python, SNAP
+  image: /images/sections/projects/project_sar_processing.png
+  timeline: "January 2025 - April 2025"
+  url: https://github.com/awu1130/WiCSE_Shadowing_Project
+  summary: As part of a shadowing program with TerraView, I worked with another student to automate synthetic aperture radar (SAR) data preprocessing using Python for soil moisture estimation.
+  tags: ["Code"]
+
 - name: Outreach through Data Visualizations
   role: ArcGIS Pro
   image: /images/sections/projects/poster_miami_sea_level_rise.png
@@ -112,14 +128,6 @@ projects:
   url: https://floridainnovation.org/2024/10/01/fci-students-illustrate-the-impacts-of-climate-gentrification-in-miami-via-a-data-walk-with-the-aim-of-driving-policy-change/
   summary: By 2090, there will be 11.4% more land submerged below sea level in Miami-Dade County compared to 2020. Florida Community Innovation hosted an event in Miami where I shared this data visualization, and we held a dialogue about collaborative solutions.
   tags: ["Outreach", "GIS", "Writing"]
-
-- name: Improving Rainfall Estimates from Radar Data with Machine Learning
-  role: Python, High-Performance Computing
-  image: /images/sections/projects/poster_radar_qpe.png
-  timeline: "June 2024 - August 2024"
-  url: https://github.com/via-zhang/portfolio/blob/main/posters/MAI_Lab_2024_Radar_QPE_SR.png
-  summary: With a team of undergraduate students at this Research Experience for Undergraduates (REU) program at the University of Maryland, Baltimore County, we researched methods to apply symbolic regression, a type of machine learning, to estimate rainfall rate from radar data. We presented our poster at the 2024 American Geophysical Union Annual Meeting and our paper at the 2024 IEEE International Conference on Big Data. 
-  tags: ["Research", "AI"]
 
 - name: Estimating Bathymetry Below Ice Shelves
   role: Python, GitHub
@@ -136,6 +144,14 @@ projects:
   url: https://storymaps.arcgis.com/stories/c407fab46da74658a2429f264cd9ec01
   summary: I created this Story Map about inactive voters based on our analysis of Florida voter files since 2016 and presented our research at the 2024 Election Science, Reform, and Administration Conference. [Election Lab at the University of Florida]
   tags: ["Research", "GIS"]
+
+- name: Improving Rainfall Estimates from Radar Data with Machine Learning
+  role: Python, High-Performance Computing
+  image: /images/sections/projects/poster_radar_qpe.png
+  timeline: "June 2024 - August 2024"
+  url: https://doi.org/10.1109/BigData62323.2024.10825069
+  summary: With a team of undergraduate students at this Research Experience for Undergraduates (REU) program at the University of Maryland, Baltimore County, we researched methods to apply symbolic regression, a type of machine learning, to estimate rainfall rate from radar data. We presented our poster at the 2024 American Geophysical Union Annual Meeting and our paper at the 2024 IEEE International Conference on Big Data. 
+  tags: ["Research", "AI"]
 
 - name: Florida 2023 Lightning-Caused Wildfire Season
   role: QGIS, ArcGIS Online
