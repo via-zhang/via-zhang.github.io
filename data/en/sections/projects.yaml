@@ -34,7 +34,7 @@ projects:
   url: https://arcg.is/1v8X9r2
   summary: An analysis of the environmental damage caused by Hurricanes Melissa (2025), Maria (2017), and Katrina (2005) with geospatial AI. Won 2nd place in the 2025 Esri and ASPRS Annual GeoChallenge.
   tags: ["GIS", "AI"]
-
+  
 - name: Map Gallery
   image: /images/sections/projects/fl_rem_cartographic.png
   url: https://via-zhang.github.io/notes
@@ -47,15 +47,7 @@ projects:
   timeline: "June 2025 - August 2025"
   url: https://geo-di-lab.github.io/emerge-lessons
   summary: Co-created a digital textbook that includes coding tutorials, showing how to analyze environmental and crowdsourced data using Python and Google Earth Engine. [Geospatial Digital Informatics Lab at the Unviersity of Florida]
-  tags: ["GIS", "AI"]
-
-- name: Climate Advocates Resource Database
-  role: R Shiny, GitHub
-  image: /images/sections/projects/database_card.png
-  timeline: "January 2026"
-  url: https://via-zhang.shinyapps.io/climate-resources
-  summary: As part of a team at the Environmental Data Science Summit hosted by the National Center for Ecological Analysis and Synthesis, we created an R Shiny app that updates live with climate papers submitted by researchers.
-  tags: ["Writing"]
+  tags: ["Team", "AI", "Python"]
 
 - name: Over the Years, Storytelling with Data
   role: ArcGIS Pro, Python (ArcPy)
@@ -70,9 +62,9 @@ projects:
   image: /images/sections/projects/proj_jigsat.png
   timeline: "January 2026"
   url: https://via-zhang.github.io/jigsat-puzzle/
-  summary: A game that allows users to explore satellite imagery by solving jigsaw puzzles.
-  tags: ["GIS"]
-
+  summary: A game that allows users to explore satellite imagery by solving puzzles.
+  tags: ["GIS", "TypeScript", "React", "Leaflet"]
+  
 - name: Community Science for Mosquito Mapping Dashboard
   role: ArcGIS Online, Data from API
   image: /images/sections/projects/dashboard_globe_community_science.png
@@ -88,6 +80,22 @@ projects:
   url: https://via-zhang.github.io/posts/shell-mounds
   summary: I worked on a research project to map archaeological shell mound sites using open-source geospatial AI models and presented our results at the 2024 American Anthropological Association Annual Meeting. [AI for Human Ecology Lab at the Florida Museum of Natural History]
   tags: ["Research", "GIS", "AI"]
+
+- name: Climate Advocates Resource Database
+  role: R Shiny, GitHub
+  image: /images/sections/projects/database_card.png
+  timeline: "January 2026"
+  url: https://via-zhang.shinyapps.io/climate-resources
+  summary: As part of a team at the Environmental Data Science Summit hosted by the National Center for Ecological Analysis and Synthesis, we created an R Shiny app that updates live with climate papers submitted by researchers.
+  tags: ["Team", "Writing", "Data"]
+
+- name: Geospatial Data Hub
+  role: Airtable, ArcGIS
+  image: /images/sections/projects/trubel_data_hub.png
+  timeline: "June 2025 - August 2025"
+  url: https://data.trubel.co/
+  summary: As an intern at trubel&co, I helped curate a geospatial data hub, used by teachers for class activities.
+  tags: ["Team", "GIS"]
 
 - name: Land Cover Change Web App
   role: Google Earth Engine
@@ -113,29 +121,13 @@ projects:
   summary: I created this Story Map about sea level rise in Miami. [Florida Community Innovation]
   tags: ["GIS", "Writing"]
 
-- name: Processing Sythentic Aperture Radar (SAR) Data
-  role: Python, SNAP
-  image: /images/sections/projects/project_sar_processing.png
-  timeline: "January 2025 - April 2025"
-  url: https://github.com/awu1130/WiCSE_Shadowing_Project
-  summary: As part of a shadowing program with TerraView, I worked with another student to automate synthetic aperture radar (SAR) data preprocessing using Python for soil moisture estimation.
-  tags: ["Code"]
-
 - name: Outreach through Data Visualizations
-  role: ArcGIS Pro
+  role: ArcGIS Pro, Writing
   image: /images/sections/projects/poster_miami_sea_level_rise.png
   timeline: "May 2024"
   url: https://floridainnovation.org/2024/10/01/fci-students-illustrate-the-impacts-of-climate-gentrification-in-miami-via-a-data-walk-with-the-aim-of-driving-policy-change/
   summary: By 2090, there will be 11.4% more land submerged below sea level in Miami-Dade County compared to 2020. Florida Community Innovation hosted an event in Miami where I shared this data visualization, and we held a dialogue about collaborative solutions.
-  tags: ["Outreach", "GIS", "Writing"]
-
-- name: Estimating Bathymetry Below Ice Shelves
-  role: Python, GitHub
-  image: /images/sections/projects/poster_map_ice_shelf_bathymetry.png
-  timeline: "August 2024 - December 2024"
-  url: https://github.com/via-zhang/map-cryo
-  summary: As part of a research-based class, we applied Markov Chain Monte Carlo gravity inversions using Python to quantify uncertainty in the seafloor beneath ice shelves in Antarctica, creating multiple, more realistic realizations of the bathymetry.
-  tags: ["Research", "Code"]
+  tags: ["Team", "Outreach", "GIS", "Writing"]
 
 - name: Inactive Voters in Florida
   role: ArcGIS Online, R
@@ -143,7 +135,7 @@ projects:
   timeline: "January 2024 - May 2024"
   url: https://storymaps.arcgis.com/stories/c407fab46da74658a2429f264cd9ec01
   summary: I created this Story Map about inactive voters based on our analysis of Florida voter files since 2016 and presented our research at the 2024 Election Science, Reform, and Administration Conference. [Election Lab at the University of Florida]
-  tags: ["Research", "GIS"]
+  tags: ["Team", "Research", "GIS", "Writing"]
 
 - name: Improving Rainfall Estimates from Radar Data with Machine Learning
   role: Python, High-Performance Computing
@@ -151,7 +143,7 @@ projects:
   timeline: "June 2024 - August 2024"
   url: https://doi.org/10.1109/BigData62323.2024.10825069
   summary: With a team of undergraduate students at this Research Experience for Undergraduates (REU) program at the University of Maryland, Baltimore County, we researched methods to apply symbolic regression, a type of machine learning, to estimate rainfall rate from radar data. We presented our poster at the 2024 American Geophysical Union Annual Meeting and our paper at the 2024 IEEE International Conference on Big Data. 
-  tags: ["Research", "AI"]
+  tags: ["Team", "Research", "AI"]
 
 - name: Florida 2023 Lightning-Caused Wildfire Season
   role: QGIS, ArcGIS Online
@@ -160,6 +152,14 @@ projects:
   url: https://storymaps.arcgis.com/stories/df47c927f1e642b8ae2bc4dcde8d8496
   summary: With Fire Neural Network, I wrote this ArcGIS Story Map to give an overview of lightning-caused wildfires that occurred in Florida in 2023.
   tags: ["GIS", "Writing"]
+
+- name: Estimating Bathymetry Below Ice Shelves
+  role: Python, GitHub
+  image: /images/sections/projects/poster_map_ice_shelf_bathymetry.png
+  timeline: "August 2024 - December 2024"
+  url: https://github.com/via-zhang/map-cryo
+  summary: As part of a research-based class, we applied Markov Chain Monte Carlo gravity inversions using Python to quantify uncertainty in the seafloor beneath ice shelves in Antarctica, creating multiple, more realistic realizations of the bathymetry.
+  tags: ["Team", "Research", "Code"]
 
 - name: Environmental Hazards Risk Dashboard
   role: ArcGIS Online
