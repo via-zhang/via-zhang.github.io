@@ -9,6 +9,22 @@ section:
 # Your accomplishments
 accomplishments:
 
+- name: Academic Awards
+  timeline: "Recognized for involvement at the University of Florida."
+  courseOverview: "
+        • <b>Gulf Scholar (2025-2026)</b>: Awarded for summer 2025 and spring 20226 internship with nonprofit organization, trubel&co, to work on educational GIS tools for youth in Gulf communities.
+    <br>• <b>John R. and Fawn T. Dunkle Geography Award (2025)</b>: Awarded for academic excellence, leadership, and active involvement in geography programs, given to one University of Florida student annually.
+    <br>• <b>College of Liberal Arts and Sciences Dean's Scholarship (2025)</b>: Awarded for academic and extracurricular excellence.
+    "
+
+- name: Grants
+  timeline: "Helped write successful grants for educational and research projects."
+  courseOverview: "
+        • <b>Co-Investigator, Earth Science Information Partners Grant (2026)</b>: $20,000 awarded to support open-source geospatial AI curriculum.
+    <br>• <b>Gulf Scholars Experiential Learning Funding (2026)</b>: $5,000 awarded to support student internships with nonprofit trubel&co for Gulf-related geospatial curriculum development.
+    <br>• <b>Broward Youth Climate Action Fund (2025)</b>: $5,000 awarded to support educational GIS program with nonprofit, trubel&co.
+    "
+
 - name: Research Awards
   timeline: "Recognized for research in geospatial AI and community science."
   courseOverview: "
@@ -18,27 +34,11 @@ accomplishments:
     <br>• <b>Archaeology \"Dirty Trowel\" Award (2024)</b>, Florida Museum of Natural History: Awarded for contribution to archaeology research through geospatial AI and GIS, given to one student annually.
     "
 
-- name: Academic Awards
-  timeline: "Recognized for involvement at the University of Florida."
-  courseOverview: "
-        • <b>Gulf Scholar (2026)</b>: Awarded for spring internship with nonprofit organization, trubel&co, to work on a full-stack educational site for place-based learning.
-    <br>• <b>John R. and Fawn T. Dunkle Geography Award (2025)</b>: Awarded for academic excellence, leadership, and active involvement in geography programs, given to one student annually.
-    <br>• <b>Gulf Scholar (2025)</b>: Awarded for summer internship with nonprofit organization, trubel&co, to work on an educational GIS program for youth in Gulf communities.
-    <br>• <b>College of Liberal Arts and Sciences Dean's Scholarship (2025)</b>: Awarded for academic and extracurricular excellence.
-    "
-
-- name: Grants
-  timeline: "Helped write successful grants for educational and research projects."
-  courseOverview: "
-        • <b>Co-Investigator, Earth Science Information Partners Grant (2026)</b>: $20,000 awarded to support open-source geospatial AI curriculum.
-    <br>• <b>Gulf Scholars Experiential Learning Funding (2026)</b>: $5,000 awarded to support Gulf-related geospatial curriculum development with nonprofit, trubel&co.
-    <br>• <b>Broward Youth Climate Action Fund (2025)</b>: $5,000 awarded to support educational GIS program with nonprofit, trubel&co.
-    "
-
 - name: Conference Travel Awards
   timeline: "Received support to attend and present at conferences."
   courseOverview: "
-        • <b>Andregg-Beasley Student Travel Award (2026)</b>, Support from ASPRS to attend Geo Week [Denver, Colorado].
+        • <b>ESIIL Innovation Summit: AI for Sustainability (2026)</b>, Environmental Data Science Innovation & Impact Lab [Boulder, Colorado].
+    <br>• <b>Geo Week, Andregg-Beasley Student Travel Award (2026)</b>, American Society for Photogrammetry and Remote Sensing [Denver, Colorado].
     <br>• <b>Environmental Data Science Summit (2026)</b>, National Center for Ecological Analysis and Synthesis [Santa Barbara, California].
     <br>• <b>Global Environmental Justice Conference: Environmental Joy (2025)</b>, Yale Center for Environmental Justice [New Haven, Connecticut].
     <br>• <b>IEEE International Conference on Big Data (2024)</b>, Institute of Electrical and Electronics Engineers [Washington, D.C.].
