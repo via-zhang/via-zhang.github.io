@@ -20,7 +20,38 @@ buttons:
 # experiences
 publications:
 
-- title: GIS Analyst
+- title: Enterprise Geospatial Intern
+  publishedIn:
+    name: World Wildlife Fund
+    date: March 2026 - Present
+    url: https://www.worldwildlife.org/
+  paper:
+    summary: "
+      <i>Global Science Team, Data & Technology | Global conservation nonprofit dedicated to protecting wildlife and natural resources.</i>
+      <br>• Supporting planning for annual summit for geospatial practitioners at World Wildlife Fund.
+      <br>• Researching geospatial tools and resources for quarterly newsletter.
+      "
+    url: 
+  categories: ["gis"]
+  tags: ["GIS", "Microsoft Suite"]
+
+- title: Geospatial Intern
+  publishedIn:
+    name: SkyTruth
+    date: September 2025 - Present
+    url: https://skytruth.org
+  paper:
+    summary: "
+      <i>Conservation technology nonprofit applying AI and remote sensing for environmental monitoring.</i>
+      <br>• Reduced data load times by 5-10x and implemented monthly updates through cloud workflows using Python, Google Cloud, and GitHub for faster responsiveness in 30×30 Conservation Builder, an interactive map for evaluating potential protected areas.
+      <br>• Analyzing the impacts of mountaintop mining on topography in Central Appalachia using Google Earth Engine.
+      <br>• Verified 300+ sources of marine oil pollution to be displayed in Cerulean, an open-source platform that uses machine learning and satellite imagery to reveal oil pollution.
+      "
+    url: https://skytruth.org
+  categories: ["gis", "coding"]
+  tags: ["Python", "QGIS", "Google Cloud", "Docker", "SQL", "Git/GitHub"]
+
+- title: Geographic Information Systems (GIS) Analyst
   publishedIn:
     name: Fire Neural Network
     date: May 2022 - March 2023 (Intern), March 2023 - Present (Analyst)
@@ -36,22 +67,6 @@ publications:
     url: https://fireneuralnetwork.com
   categories: ["gis", "coding"]
   tags: ["ArcGIS Suite", "Writing", "Video Editing", "Python", "Git/GitHub"]
-
-- title: Geospatial Intern
-  publishedIn:
-    name: SkyTruth
-    date: September 2025 - Present
-    url: https://skytruth.org
-  paper:
-    summary: "
-      <i>Conservation technology nonprofit applying AI and remote sensing for environmental monitoring.</i>
-      <br>• Analyzing the impacts of mountaintop mining on topography in Central Appalachia using Google Earth Engine.
-      <br>• Created workflows to update data using Python, Google Cloud, GitHub for display in Conservation Builder, an interactive map for evaluating potential protected areas.
-      <br>• Verified 300+ sources of marine oil pollution to be displayed in Cerulean, an open-source platform that uses machine learning and satellite imagery to reveal oil pollution.
-      "
-    url: https://skytruth.org
-  categories: ["gis", "coding"]
-  tags: ["Python", "QGIS", "Google Cloud", "Docker", "SQL", "Git/GitHub"]
 
 - title: Geospatial Data Intern
   publishedIn:

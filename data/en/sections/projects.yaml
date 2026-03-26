@@ -89,6 +89,14 @@ projects:
   summary: As part of a team at the Environmental Data Science Summit hosted by the National Center for Ecological Analysis and Synthesis, we created an R Shiny app that updates live with climate papers submitted by researchers.
   tags: ["Team", "Writing", "Data"]
 
+- name: Central Florida Policy Database
+  role: TypeScript, React
+  image: /images/sections/projects/proj_thrive_search.png
+  timeline: "March 2026"
+  url: https://dssd-gnv.github.io/thrive-search/
+  summary: Led development of searchable database for Thrive Central Florida, used by 300+ community leaders to identify research and papers about sustainable development in Central Florida.
+  tags: ["Team", "TypeScript", "React"]
+
 - name: Geospatial Data Hub
   role: Airtable, ArcGIS
   image: /images/sections/projects/trubel_data_hub.png
@@ -121,13 +129,13 @@ projects:
   summary: I created this Story Map about sea level rise in Miami. [Florida Community Innovation]
   tags: ["GIS", "Writing"]
 
-- name: Outreach through Data Visualizations
-  role: ArcGIS Pro, Writing
-  image: /images/sections/projects/poster_miami_sea_level_rise.png
-  timeline: "May 2024"
-  url: https://floridainnovation.org/2024/10/01/fci-students-illustrate-the-impacts-of-climate-gentrification-in-miami-via-a-data-walk-with-the-aim-of-driving-policy-change/
-  summary: By 2090, there will be 11.4% more land submerged below sea level in Miami-Dade County compared to 2020. Florida Community Innovation hosted an event in Miami where I shared this data visualization, and we held a dialogue about collaborative solutions.
-  tags: ["Team", "Outreach", "GIS", "Writing"]
+# - name: Outreach through Data Visualizations
+#   role: ArcGIS Pro, Writing
+#   image: /images/sections/projects/poster_miami_sea_level_rise.png
+#   timeline: "May 2024"
+#   url: https://floridainnovation.org/2024/10/01/fci-students-illustrate-the-impacts-of-climate-gentrification-in-miami-via-a-data-walk-with-the-aim-of-driving-policy-change/
+#   summary: By 2090, there will be 11.4% more land submerged below sea level in Miami-Dade County compared to 2020. Florida Community Innovation hosted an event in Miami where I shared this data visualization, and we held a dialogue about collaborative solutions.
+#   tags: ["Team", "Outreach", "GIS", "Writing"]
 
 - name: Inactive Voters in Florida
   role: ArcGIS Online, R

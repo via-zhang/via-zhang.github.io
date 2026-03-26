@@ -36,6 +36,10 @@ Coalescence happens when multiple water drops combine to form a larger droplet, 
 
 The data for the river visualization comes from the NOAA Office for Coastal Management and was processed with Python and mapped with ArcGIS Pro. This artwork was featured in the Chengyu for Change zine with a workshop about environmental futures hosted at the Miami Beach Regional Library.
 
+## Vibrance of Miami
+![A digital self portrait, overlaid with a timelapse of nighttime lights over Miami.](Vibrance_of_Miami.gif)
+Visualizing [VIIRS nighttime light](https://eogdata.mines.edu/nighttime_light/annual/) data over Miami, this artwork aims to show the vibrance of a region facing climate change impacts.
+
 ## Geospatial Data in Art
 
 I thought I would have to give up art when I started college, until I realized that I am still creating art, just in a different form. Art is something that will always be a part of my life, present in the maps made, data visualized, and stories told.
