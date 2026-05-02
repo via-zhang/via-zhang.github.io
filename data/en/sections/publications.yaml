@@ -28,8 +28,8 @@ publications:
   paper:
     summary: "
       <i>Global Science Team, Data & Technology | Global conservation nonprofit dedicated to protecting wildlife and natural resources.</i>
-      <br>• Supporting planning for annual summit for geospatial practitioners at World Wildlife Fund.
-      <br>• Researching geospatial tools and resources for quarterly newsletter.
+      <br>• Supported data documentation and recorded tutorial videos for Conservation Navigator, a platform displaying curated social and environmental datasets.
+      <br>• Helped plan and host annual summit with 100+ attendees to share geospatial projects and milestones.
       "
     url: 
   categories: ["gis"]
@@ -43,8 +43,8 @@ publications:
   paper:
     summary: "
       <i>Conservation technology nonprofit applying AI and remote sensing for environmental monitoring.</i>
-      <br>• Reduced data load times by 5-10x and implemented monthly updates through cloud workflows using Python, Google Cloud, and GitHub for faster responsiveness in 30×30 Conservation Builder, an interactive map for evaluating potential protected areas.
-      <br>• Analyzing the impacts of mountaintop mining on topography in Central Appalachia using Google Earth Engine.
+      <br>• Sped up data loading by 8x (land) and 13x (ocean) and implemented monthly updates through cloud workflows using Python, Google Cloud, and GitHub for faster responsiveness in 30×30 Conservation Builder, an interactive map for evaluating potential protected areas.
+      <br>• Identified 35,000+ areas of significant elevation change after mountaintop mining in Central Appalachia through geospatial analysis with Google Earth Engine, released for public access via an API and interactive web app.
       <br>• Verified 300+ sources of marine oil pollution to be displayed in Cerulean, an open-source platform that uses machine learning and satellite imagery to reveal oil pollution.
       "
     url: https://skytruth.org

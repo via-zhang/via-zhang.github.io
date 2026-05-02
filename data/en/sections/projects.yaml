@@ -27,19 +27,43 @@ projects:
 #   summary: 
 #   tags: 
 
-- name: Sea Level Rise Visualizations
-  role: Google Earth Engine
-  image: /images/sections/projects/dashboard_sea_level.png
-  timeline: "2025-2026"
-  url: https://via-zhang.users.earthengine.app/view/sea-levels
-  summary: Educational web app visualizing past, present, and future sea level rise, supported by the Florida Climate Institute student fellowship.
-  tags: ["GIS", "Google Earth Engine"]
+- name: Mapping Urban Heat Islands at Schools
+  role: Python, ArcGIS Pro
+  image: /images/sections/projects/story_shade_our_schools.png
+  timeline: "January - April 2026"
+  url: https://storymaps.arcgis.com/stories/3fd093ae327045c4b6a052c917977cd6
+  summary: In Miami schools, shaded areas are 10.3°F cooler than areas in the sun. This story map visualizes 1,000 student-collected data points about relationships between shade, ground cover, and heat at schools in South Florida. [Fairchild Tropical Botanic Garden]
+  tags: ["GIS", "AI/ML", "Writing"]
   
 - name: Map Gallery
   image: /images/sections/projects/fl_rem_cartographic.png
   url: https://via-zhang.github.io/notes
   summary: A gallery of various maps I have made, from the depth of rivers to the spread of wildfires.
   tags: ["GIS"]
+
+- name: Mapping Impacts of Mining
+  role: Python, ArcGIS Pro
+  image: /images/sections/projects/skytruth_mining.png
+  timeline: "September - April 2026"
+  url: https://skytruth.org/2026/04/mountaintop-mining-elevation-disturbance-data-available-for-open-access-through-api/
+  summary: As a Geospatial Intern at SkyTruth, I analyzed pre- and post-mining elevation data to map the impacts of mountaintop mining in Appalachia. identifying 35,000+ areas of significant elevation change shared for public access via an API, web app, and blog post. [SkyTruth]
+  tags: ["GIS", "Writing"]
+
+- name: GeoAI for Participatory Science
+  role: Python
+  image: /images/sections/projects/proj_emerge_geoai.png
+  timeline: "January - April 2026"
+  url: https://geo-di-lab.github.io/emerge-geoai/intro.html
+  summary: As co-investigator of project funded by ESIP grant, I developed educational lessons about how to apply geospatial AI to analyze data from participatory science projects, such as iNaturalist and GLOBE. [Geospatial Digital Informatics Lab at the Unviersity of Florida]
+  tags: ["GIS", "AI/ML", "Writing"]
+
+- name: Sea Level Rise Visualizations
+  role: Google Earth Engine
+  image: /images/sections/projects/dashboard_sea_level.png
+  timeline: "2025-2026"
+  url: https://via-zhang.users.earthengine.app/view/sea-levels
+  summary: Educational web app visualizing past, present, and future sea level rise, supported by the Florida Climate Institute student fellowship. [AI for Human Ecology Lab at the Florida Museum of Natural History]
+  tags: ["GIS", "Google Earth Engine"]
 
 - name: Mapping Hurricane Impacts with GeoAI
   role: ArcGIS Pro, Python
@@ -118,15 +142,15 @@ projects:
   image: /images/sections/projects/land_cover.png
   timeline: September 2025
   url: https://via-zhang.users.earthengine.app/view/land-cover
-  summary: Interactive web app created using JavaScript (Google Earth Engine) visualizing land cover change over 20 years.
+  summary: Interactive web app visualizing land cover change over 20 years.
   tags: ["GIS"]
 
 - name: Mapping Tree Mortality with Satellite Embeddings & Field Surveys
   role: Google Earth Engine, R
   image: /images/sections/projects/project_tree_classify.jpg
   timeline: "November - December 2025"
-  url: https://via-zhang.github.io/posts/tree-ai
-  summary: Compared 3 machine learning methods to map tree mortality using NEON field survey data and Google's Satellite Embeddings.
+  url: https://via-zhang.users.earthengine.app/view/neon-trees
+  summary: Interactive web app comparing machine learning methods to map tree mortality using NEON field survey data and Google's Satellite Embeddings.
   tags: ["GIS", "AI"]
 
 - name: Sea Level Rise in Miami
