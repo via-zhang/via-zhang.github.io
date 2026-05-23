@@ -17,6 +17,16 @@ Maps of river Relative Elevation Model (REM) for three rivers in Florida, proces
 
 {{< /note >}}
 
+{{< note title="Satellite Timelapse of Mining">}}
+
+Timelapses showing the 40-year landscape changes from two mines in West Virginia, shared on SkyTruth's website and social media posts.
+
+<img src="/notes/environment/hobet_1985_2025_overlay.gif" alt="Timelapse of satellite images of a mined site, showing more and more green landscapes turning to brown." width="50%">
+<br>
+<img src="/notes/environment/ruffner_1985_2025_overlay.gif" alt="Timelapse of satellite images of a mined site, showing more and more green landscapes turning to brown." width="50%">
+
+{{< /note >}}
+
 <!-- Team Rubicon -->
 {{< note title="Typhoon Halong">}}
 
