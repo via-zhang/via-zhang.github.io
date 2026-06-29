@@ -28,8 +28,10 @@ publications:
   paper:
     summary: "
       <i>Global Science Team, Data & Technology | Global conservation nonprofit dedicated to protecting wildlife and natural resources.</i>
+      <br>• Created interactive maps displaying key priority areas for conservation by developing pipeline to process and combine datasets about conservation values, threats, and mitigation actions using Python and ArcGIS Pro.
       <br>• Supported data documentation and recorded tutorial videos for Conservation Navigator, a platform displaying curated social and environmental datasets.
-      <br>• Developed interactive Power BI dashboard showing geospatial software provision over time.
+      <br>• Organized a data catalog to increase access to conservation datasets for download.
+      <br>• Developed interactive Power BI dashboard showing internal geospatial software use over time, showcased on staff-wide website.
       <br>• Helped plan and host annual summit with 100+ attendees to share geospatial projects and milestones.
       "
     url: 

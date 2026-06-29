@@ -21,9 +21,17 @@ Maps of river Relative Elevation Model (REM) for three rivers in Florida, proces
 
 Timelapses showing the 40-year landscape changes from two mines in West Virginia, shared on SkyTruth's website and social media posts.
 
-<img src="/notes/environment/hobet_1985_2025_overlay.gif" alt="Timelapse of satellite images of a mined site, showing more and more green landscapes turning to brown." width="50%">
+<img src="/notes/environment/hobet_1985_2025_overlay.gif" alt="Timelapse of satellite images of a mined site, showing more land being mined over time." width="50%">
 <br>
-<img src="/notes/environment/ruffner_1985_2025_overlay.gif" alt="Timelapse of satellite images of a mined site, showing more and more green landscapes turning to brown." width="50%">
+<img src="/notes/environment/ruffner_1985_2025_overlay.gif" alt="Timelapse of satellite images of a mined site, showing more land being mined over time." width="50%">
+
+{{< /note >}}
+
+{{< note title="Sea Surface Temperature">}}
+
+Visualization of sea surface temperature data from [NASA](https://www.earthdata.nasa.gov/data/catalog/pocloud-mur-jpl-l4-glob-v4.1-4.1) for 2025, data extracted with Python.
+
+![Timelapse of global sea surface temperature.](/notes/environment/nasa_sst_2025.gif)
 
 {{< /note >}}
 
