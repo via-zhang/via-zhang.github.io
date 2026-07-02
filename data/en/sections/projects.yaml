@@ -54,7 +54,7 @@ projects:
   image: /images/sections/projects/app_climate_stripes.png
   timeline: "July 2026"
   url: https://via-zhang.github.io/global-climate-stripes/
-  summary: Interactive web app visualizing temperature change, inspired by the climate stripes created by Professor Ed Hawkins.
+  summary: Interactive web app visualizing temperature change for a drawn area, inspired by the climate stripes created by Professor Ed Hawkins.
   tags: ["GIS"]
   
 - name: GeoAI for Participatory Science
