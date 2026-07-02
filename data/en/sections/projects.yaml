@@ -49,6 +49,14 @@ projects:
   summary: As a Geospatial Intern at SkyTruth, I analyzed pre- and post-mining elevation data to map the impacts of mountaintop mining in Appalachia. identifying 35,000+ areas of significant elevation change shared for public access via an API, web app, and blog post. [SkyTruth]
   tags: ["GIS", "Writing"]
 
+- name: Global Climate Stripes
+  role: Node.js, React, D3
+  image: /images/sections/projects/app_climate_stripes.png
+  timeline: "July 2026"
+  url: https://via-zhang.github.io/global-climate-stripes/
+  summary: Interactive web app visualizing temperature change, inspired by the climate stripes created by Professor Ed Hawkins.
+  tags: ["GIS"]
+  
 - name: GeoAI for Participatory Science
   role: Python
   image: /images/sections/projects/proj_emerge_geoai.png
