@@ -27,6 +27,14 @@ projects:
 #   summary: 
 #   tags: 
 
+- name: Temperature Data Artwork for Rocky Mountain ESA Chapter
+  role: Python, Inkscape
+  image: /images/sections/projects/rocky_mountains_esa_banner.png
+  timeline: "July 2026"
+  url: https://www.nrel.colostate.edu/understanding-temperature-change-through-art-creating-a-banner-for-the-rocky-mountain-chapter/
+  summary: Analyzed temperature change over time for the Rocky Mountain National Park and designed a banner incorporating the data visualization in a mountain range.
+  tags: ["Art"]
+  
 - name: Mapping Urban Heat Islands at Schools
   role: Python, ArcGIS Pro
   image: /images/sections/projects/story_shade_our_schools.png
@@ -121,13 +129,13 @@ projects:
   summary: I worked on a research project to map archaeological shell mound sites using open-source geospatial AI models and presented our results at the 2024 American Anthropological Association Annual Meeting. [AI for Human Ecology Lab at the Florida Museum of Natural History]
   tags: ["Research", "GIS", "AI"]
 
-- name: Climate Advocates Resource Database
-  role: R Shiny, GitHub
-  image: /images/sections/projects/database_card.png
-  timeline: "January 2026"
-  url: https://via-zhang.shinyapps.io/climate-resources
-  summary: As part of a team at the Environmental Data Science Summit hosted by the National Center for Ecological Analysis and Synthesis, we created an R Shiny app that updates live with climate papers submitted by researchers.
-  tags: ["Team", "Writing", "Data"]
+# - name: Climate Advocates Resource Database
+#   role: R Shiny, GitHub
+#   image: /images/sections/projects/database_card.png
+#   timeline: "January 2026"
+#   url: https://via-zhang.shinyapps.io/climate-resources
+#   summary: As part of a team at the Environmental Data Science Summit hosted by the National Center for Ecological Analysis and Synthesis, we created an R Shiny app that updates live with climate papers submitted by researchers.
+#   tags: ["Team", "Writing", "Data"]
 
 - name: Central Florida Policy Database
   role: TypeScript, React
