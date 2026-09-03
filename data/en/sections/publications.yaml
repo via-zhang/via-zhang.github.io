@@ -20,6 +20,22 @@ buttons:
 # experiences
 publications:
 
+- title: Software Engineer
+  publishedIn:
+    name: SkyTruth
+    date: September 2025 - 2026 (Geospatial Intern), September 2026 - Present (Software Engineer)
+    url: https://skytruth.org
+  paper:
+    summary: "
+      <i>Conservation technology nonprofit applying AI and remote sensing for environmental monitoring</i>
+      <br>• Sped up data loading by 8x (land) and 13x (ocean) and implemented monthly updates through cloud workflows using Python, Google Cloud, and GitHub for faster responsiveness in 30×30 Conservation Builder, an interactive map for evaluating potential protected areas.
+      <br>• Identified 35,000+ areas of significant elevation change after mountaintop mining in Central Appalachia through geospatial analysis with Google Earth Engine, released for public access via an API and interactive web app.
+      <br>• Verified 300+ sources of marine oil pollution to be displayed in Cerulean, an open-source platform that uses machine learning and satellite imagery to reveal oil pollution.
+      "
+    url: https://skytruth.org
+  categories: ["gis", "coding"]
+  tags: ["Python", "QGIS", "Google Cloud", "Docker", "SQL", "Git/GitHub"]
+
 - title: Enterprise Geospatial Intern
   publishedIn:
     name: World Wildlife Fund
@@ -37,22 +53,6 @@ publications:
     url: 
   categories: ["gis"]
   tags: ["GIS", "Microsoft Suite"]
-
-- title: Geospatial Intern
-  publishedIn:
-    name: SkyTruth
-    date: September 2025 - Present
-    url: https://skytruth.org
-  paper:
-    summary: "
-      <i>Conservation technology nonprofit applying AI and remote sensing for environmental monitoring.</i>
-      <br>• Sped up data loading by 8x (land) and 13x (ocean) and implemented monthly updates through cloud workflows using Python, Google Cloud, and GitHub for faster responsiveness in 30×30 Conservation Builder, an interactive map for evaluating potential protected areas.
-      <br>• Identified 35,000+ areas of significant elevation change after mountaintop mining in Central Appalachia through geospatial analysis with Google Earth Engine, released for public access via an API and interactive web app.
-      <br>• Verified 300+ sources of marine oil pollution to be displayed in Cerulean, an open-source platform that uses machine learning and satellite imagery to reveal oil pollution.
-      "
-    url: https://skytruth.org
-  categories: ["gis", "coding"]
-  tags: ["Python", "QGIS", "Google Cloud", "Docker", "SQL", "Git/GitHub"]
 
 - title: Geographic Information Systems (GIS) Analyst
   publishedIn:
@@ -119,21 +119,6 @@ publications:
     url: https://nick-gauthier.github.io
   categories: ["gis", "research", "coding"]
   tags: ["Research", "ArcGIS Suite", "Python", "High-Performance Computing"]
-
-- title: Undergraduate Research Assistant
-  publishedIn:
-    name: Ecosystem Services and GeoAI Lab
-    date: January 2025 - Present
-    url: https://changzhao-geods.github.io/Ecosystem-Services-GeoAI-Lab
-  paper:
-    summary: "
-      <i>Research lab (led by Dr. Chang Zhao) studying where and how nature provides benefits to communities.</i>
-      <br>• Developing workflow to standardize data about urban farms and community gardens from various sources.
-      <br>• Processing high-resolution imagery from the National Agriculture Imagery Program to analyze urban agriculture sites.
-      "
-    url: https://changzhao-geods.github.io/Ecosystem-Services-GeoAI-Lab
-  categories: ["gis", "research"]
-  tags: ["Research", "Python", "High-Performance Computing", "ArcGIS"]
 
 - title: Student Assistant
   publishedIn:
