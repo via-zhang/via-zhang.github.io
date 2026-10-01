@@ -26,6 +26,20 @@ projects:
 #   url: 
 #   summary: 
 #   tags: 
+  
+- name: Map Gallery
+  image: /images/sections/projects/fl_rem_cartographic.png
+  url: https://via-zhang.github.io/notes
+  summary: A gallery of various maps I have made, from the depth of rivers to the spread of wildfires.
+  tags: ["GIS"]
+
+- name: GLOBE Land Cover 3D Visualization
+  role: React, MapLibre, Three.js
+  image: /images/sections/projects/project_globe_land_cover.png
+  timeline: "September 2026"
+  url: https://via-zhang.github.io/globe-land-cover/
+  summary: Interactive map and 3D visualizations of NASA GLOBE land cover observations.
+  tags: ["GIS"]
 
 - name: Temperature Data Artwork for Rocky Mountain ESA Chapter
   role: Python, Inkscape
@@ -42,12 +56,6 @@ projects:
   url: https://storymaps.arcgis.com/stories/3fd093ae327045c4b6a052c917977cd6
   summary: In Miami schools, shaded areas are 10.3°F cooler than areas in the sun. This story map visualizes 1,000 student-collected data points about relationships between shade, ground cover, and heat at schools in South Florida. [Fairchild Tropical Botanic Garden]
   tags: ["GIS", "AI/ML", "Writing"]
-  
-- name: Map Gallery
-  image: /images/sections/projects/fl_rem_cartographic.png
-  url: https://via-zhang.github.io/notes
-  summary: A gallery of various maps I have made, from the depth of rivers to the spread of wildfires.
-  tags: ["GIS"]
 
 - name: Mapping Impacts of Mining
   role: Python, ArcGIS Pro
