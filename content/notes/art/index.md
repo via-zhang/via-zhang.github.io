@@ -31,3 +31,11 @@ The artwork, titled “Coalescence” (the process of coming together to form a 
 ![A portrait in black overlapping a river visualization from dark navy to an icy blue.](/notes/art/coalescence_full.jpg)
 
 {{< /note >}}
+
+{{< note title="Burned Leaves">}}
+
+After visiting a nature preserve where part of the forest had been burned, I took a few half-burned leaves from the ground and used a mini-microscope to zoom in on the leaves, making up the background of this artwork.
+
+<img src="/notes/art/burned_leaves.jpg" alt="Arwork of a tree against a grid of zoomed-in leaves ranging from green to burned red." height="50%" width="50%">
+
+{{< /note >}}

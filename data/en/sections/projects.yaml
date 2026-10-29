@@ -26,7 +26,15 @@ projects:
 #   url: 
 #   summary: 
 #   tags: 
-  
+
+- name: Bird Art Atlas
+  role: React, MapLibre
+  image: /images/sections/projects/app_bird_art_atlas.png
+  timeline: "October 2026"
+  url: https://via-zhang.github.io/global-nature-art/
+  summary: Hand-drawn birds from iNaturalist observations, placed on an interactive 3D globe.
+  tags: ["GIS", "Art"]
+
 - name: Map Gallery
   image: /images/sections/projects/fl_rem_cartographic.png
   url: https://via-zhang.github.io/notes
