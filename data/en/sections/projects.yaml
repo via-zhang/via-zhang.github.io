@@ -49,6 +49,14 @@ projects:
   summary: Interactive map and 3D visualizations of NASA GLOBE land cover observations.
   tags: ["GIS"]
 
+- name: Puzzles of Florida's Past
+  role: Svelte, Vite, TypeScript
+  image: /images/sections/projects/app_florida_plat_puzzles.png
+  timeline: "October 2026"
+  url: https://via-zhang.github.io/florida-plat-puzzles/
+  summary: Puzzle map game to piece together 19th-century hand-drawn maps of Florida [Florida Museum of Natural History]
+  tags: ["GIS"]
+
 - name: Temperature Data Artwork for Rocky Mountain ESA Chapter
   role: Python, Inkscape
   image: /images/sections/projects/rocky_mountains_esa_banner.png
