@@ -64,7 +64,15 @@ projects:
   url: https://www.nrel.colostate.edu/understanding-temperature-change-through-art-creating-a-banner-for-the-rocky-mountain-chapter/
   summary: Analyzed temperature change over time for the Rocky Mountain National Park and designed a banner incorporating the data visualization in a mountain range.
   tags: ["Art"]
-  
+
+- name: Photo to Satellite Pixel Mosaic
+  role: Svelte, Vite, TypeScript
+  image: /images/sections/projects/app_satellite_pixels.png
+  timeline: "November 2026"
+  url: https://via-zhang.github.io/satellite-pixels/
+  summary: Web app to turn any photo into a mosaic of satellite images from around the world.
+  tags: ["Art", "GIS"]
+
 - name: Mapping Urban Heat Islands at Schools
   role: Python, ArcGIS Pro
   image: /images/sections/projects/story_shade_our_schools.png
