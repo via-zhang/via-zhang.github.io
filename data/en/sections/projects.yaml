@@ -14,6 +14,8 @@ buttons:
   filter: "GIS"
 - name: AI/ML
   filter: "AI"
+- name: Software
+  filter: "Software"
 - name: Writing
   filter: "Writing"
 
@@ -33,7 +35,7 @@ projects:
   timeline: "October 2026"
   url: https://via-zhang.github.io/global-nature-art/
   summary: Hand-drawn birds from iNaturalist observations, placed on an interactive 3D globe.
-  tags: ["GIS", "Art"]
+  tags: ["GIS", "Art", "Software"]
 
 - name: Map Gallery
   image: /images/sections/projects/fl_rem_cartographic.png
@@ -47,7 +49,7 @@ projects:
   timeline: "September 2026"
   url: https://via-zhang.github.io/globe-land-cover/
   summary: Interactive map and 3D visualizations of NASA GLOBE land cover observations.
-  tags: ["GIS"]
+  tags: ["GIS", "Software"]
 
 - name: Puzzles of Florida's Past
   role: Svelte, Vite, TypeScript
@@ -55,7 +57,7 @@ projects:
   timeline: "October 2026"
   url: https://via-zhang.github.io/florida-plat-puzzles/
   summary: Puzzle map game to piece together 19th-century hand-drawn maps of Florida [Florida Museum of Natural History]
-  tags: ["GIS"]
+  tags: ["GIS", "Software"]
 
 - name: Temperature Data Artwork for Rocky Mountain ESA Chapter
   role: Python, Inkscape
@@ -71,7 +73,7 @@ projects:
   timeline: "November 2026"
   url: https://via-zhang.github.io/satellite-pixels/
   summary: Web app to turn any photo into a mosaic of satellite images from around the world.
-  tags: ["Art", "GIS"]
+  tags: ["Art", "GIS", "Software"]
 
 - name: Mapping Urban Heat Islands at Schools
   role: Python, ArcGIS Pro
@@ -95,7 +97,7 @@ projects:
   timeline: "July 2026"
   url: https://via-zhang.github.io/global-climate-stripes/
   summary: Interactive web app visualizing temperature change for a drawn area, inspired by the climate stripes created by Professor Ed Hawkins.
-  tags: ["GIS"]
+  tags: ["GIS", "Software"]
   
 - name: GeoAI for Participatory Science
   role: Python
@@ -106,12 +108,12 @@ projects:
   tags: ["GIS", "AI/ML", "Writing"]
 
 - name: Sea Level Rise Visualizations
-  role: Google Earth Engine
-  image: /images/sections/projects/dashboard_sea_level.png
+  role: React, MapLibre
+  image: /images/sections/projects/app_sea_level_rise.png
   timeline: "2025-2026"
-  url: https://via-zhang.users.earthengine.app/view/sea-levels
-  summary: Educational web app visualizing past, present, and future sea level rise, supported by the Florida Climate Institute student fellowship. [AI for Human Ecology Lab at the Florida Museum of Natural History]
-  tags: ["GIS", "Google Earth Engine"]
+  url: https://via-zhang.github.io/sea-level-rise/
+  summary: An interactive 2D/3D map of past and future sea levels on the U.S. Gulf Coast, from the last ice age to 2150. [AI for Human Ecology Lab at the Florida Museum of Natural History]
+  tags: ["GIS", "Software"]
 
 - name: Mapping Hurricane Impacts with GeoAI
   role: ArcGIS Pro, Python
@@ -143,7 +145,7 @@ projects:
   timeline: "January 2026"
   url: https://via-zhang.github.io/jigsat-puzzle/
   summary: A game that allows users to explore satellite imagery by solving puzzles.
-  tags: ["GIS", "TypeScript", "React", "Leaflet"]
+  tags: ["GIS", "Software"]
   
 - name: Community Science for Mosquito Mapping Dashboard
   role: ArcGIS Online, Data from API
@@ -175,7 +177,7 @@ projects:
   timeline: "March 2026"
   url: https://dssd-gnv.github.io/thrive-search/
   summary: Led development of searchable database for Thrive Central Florida, used by 300+ community leaders to identify research and papers about sustainable development in Central Florida.
-  tags: ["Team", "TypeScript", "React"]
+  tags: ["Team", "Software"]
 
 - name: Geospatial Data Hub
   role: Airtable, ArcGIS
